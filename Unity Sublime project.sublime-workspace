@@ -1,0 +1,384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hea",
+				"HealthBar\tSlider"
+			],
+			[
+				"tot",
+				"TotalHealth"
+			],
+			[
+				"acc",
+				"AccelSpeed"
+			],
+			[
+				"Acc",
+				"AccelSpeed"
+			],
+			[
+				"gam",
+				"GameObject"
+			],
+			[
+				"spee",
+				"Speed"
+			],
+			[
+				"sp",
+				"Speed"
+			],
+			[
+				"s",
+				"Speed"
+			],
+			[
+				"S",
+				"speed"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"t",
+				"thrust"
+			],
+			[
+				"ca",
+				"canMove"
+			],
+			[
+				"enem",
+				"EnemyHealthManager"
+			],
+			[
+				"e",
+				"EnemyHealthManager"
+			],
+			[
+				"r",
+				"rbody"
+			],
+			[
+				"ro",
+				"Rigidbody2D"
+			],
+			[
+				"link",
+				"linki\tlink - icon"
+			],
+			[
+				"def",
+				"dfe2e7"
+			],
+			[
+				"collap",
+				"collapseDy1"
+			],
+			[
+				"is",
+				"isMoving\tbool"
+			],
+			[
+				"n",
+				"null\tnull"
+			],
+			[
+				"7",
+				"737a84"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"prom",
+				"prompt〔function〕"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"player",
+				"player\tPlayerControls"
+			],
+			[
+				"anim",
+				"Animator\tAnimator"
+			],
+			[
+				"vecto",
+				"Vector3\tVector3"
+			],
+			[
+				"getcom",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"rigid",
+				"Rigidbody2D\tRigidbody2D"
+			],
+			[
+				"setv",
+				"SetBool(int id, bool value)\tvoid"
+			],
+			[
+				"Anima",
+				"Animator\tAnimator"
+			],
+			[
+				"getc",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"move",
+				"MovePosition(Vector2 position)\tvoid"
+			],
+			[
+				"ad",
+				"AddForce(Vector2 force)\tvoid"
+			],
+			[
+				"Coll",
+				"Collision\tCollision"
+			],
+			[
+				"des",
+				"DestroyedAfterSeconds()\tvoid"
+			],
+			[
+				"uni",
+				"UnityEngine"
+			],
+			[
+				"de",
+				"destroyAfterSeconds"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"trim",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/MainPlayer/PlayerStats.cs",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/MainPlayer/PlayerControls.cs",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/MainPlayer/JoystickUI.cs",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/Main Menu/MainMenuAnims.cs",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/Main Menu/MainMenuManager.cs",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/GUI/RestartSystem.cs",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/GUI/HealthBar.cs",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/Camera/CameraFollow.cs",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/GoldCoinsSystem.cs",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/defacegames-new/wp-content/themes/darkcustoms/style.css",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/defacegames-new/wp-content/themes/darkcustoms/templates/template-contact.php",
+		"/E/WorkSpace/RESOURCES/FONTS/Archives/Webfonts/transfonter.org-20180720-003455/stylesheet.css",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/defacegames-new/wp-content/themes/darkcustoms/header.php",
+		"/C/Users/Amanz/Downloads/Password.txt",
+		"/C/Users/Amanz/Documents/MGR/SaveData/GraphicOption",
+		"/C/Users/Amanz/Documents/MGR/SaveData/MGR.sav",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/defacegames-new/wp-content/themes/darkcustoms/functions.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/defacegames-new/wp-content/themes/darkcustoms/index.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/defacegames-new/wp-content/themes/darkcustoms/category.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/defacegames-new/wp-content/themes/darkcustoms/template-parts/content-item.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/defacegames-new/wp-content/themes/darkcustoms/comments.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/defacegames-new/wp-content/themes/darkcustoms/template-parts/content.php",
+		"/E/WorkSpace/Docs/THE ADVENTURES OF AD.txt"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Unity Sublime project.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

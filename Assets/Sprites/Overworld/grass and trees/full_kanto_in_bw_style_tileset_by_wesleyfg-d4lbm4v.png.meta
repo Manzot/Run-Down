@@ -1,0 +1,5182 @@
+fileFormatVersion: 2
+guid: 2ebdb18dea1e0214590fa946ca306110
+timeCreated: 1520490155
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_0
+    21300002: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_1
+    21300004: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_2
+    21300006: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_3
+    21300008: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_4
+    21300010: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_5
+    21300012: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_6
+    21300014: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_7
+    21300016: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_8
+    21300018: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_9
+    21300020: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_10
+    21300022: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_11
+    21300024: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_12
+    21300026: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_13
+    21300028: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_14
+    21300030: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_15
+    21300032: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_16
+    21300034: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_17
+    21300036: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_18
+    21300038: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_19
+    21300040: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_20
+    21300042: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_21
+    21300044: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_22
+    21300046: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_23
+    21300048: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_24
+    21300050: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_25
+    21300052: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_26
+    21300054: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_27
+    21300056: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_28
+    21300058: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_29
+    21300060: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_30
+    21300062: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_31
+    21300064: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_32
+    21300066: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_33
+    21300068: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_34
+    21300070: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_35
+    21300072: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_36
+    21300074: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_37
+    21300076: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_38
+    21300078: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_39
+    21300080: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_40
+    21300082: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_41
+    21300084: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_42
+    21300086: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_43
+    21300088: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_44
+    21300090: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_45
+    21300092: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_46
+    21300094: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_47
+    21300096: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_48
+    21300098: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_49
+    21300100: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_50
+    21300102: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_51
+    21300104: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_52
+    21300106: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_53
+    21300108: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_54
+    21300110: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_55
+    21300112: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_56
+    21300114: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_57
+    21300116: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_58
+    21300118: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_59
+    21300120: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_60
+    21300122: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_61
+    21300124: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_62
+    21300126: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_63
+    21300128: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_64
+    21300130: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_65
+    21300132: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_66
+    21300134: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_67
+    21300136: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_68
+    21300138: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_69
+    21300140: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_70
+    21300142: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_71
+    21300144: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_72
+    21300146: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_73
+    21300148: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_74
+    21300150: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_75
+    21300152: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_76
+    21300154: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_77
+    21300156: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_78
+    21300158: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_79
+    21300160: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_80
+    21300162: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_81
+    21300164: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_82
+    21300166: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_83
+    21300168: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_84
+    21300170: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_85
+    21300172: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_86
+    21300174: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_87
+    21300176: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_88
+    21300178: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_89
+    21300180: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_90
+    21300182: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_91
+    21300184: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_92
+    21300186: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_93
+    21300188: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_94
+    21300190: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_95
+    21300192: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_96
+    21300194: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_97
+    21300196: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_98
+    21300198: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_99
+    21300200: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_100
+    21300202: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_101
+    21300204: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_102
+    21300206: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_103
+    21300208: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_104
+    21300210: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_105
+    21300212: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_106
+    21300214: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_107
+    21300216: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_108
+    21300218: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_109
+    21300220: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_110
+    21300222: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_111
+    21300224: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_112
+    21300226: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_113
+    21300228: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_114
+    21300230: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_115
+    21300232: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_116
+    21300234: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_117
+    21300236: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_118
+    21300238: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_119
+    21300240: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_120
+    21300242: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_121
+    21300244: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_122
+    21300246: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_123
+    21300248: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_124
+    21300250: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_125
+    21300252: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_126
+    21300254: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_127
+    21300256: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_128
+    21300258: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_129
+    21300260: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_130
+    21300262: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_131
+    21300264: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_132
+    21300266: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_133
+    21300268: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_134
+    21300270: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_135
+    21300272: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_136
+    21300274: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_137
+    21300276: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_138
+    21300278: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_139
+    21300280: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_140
+    21300282: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_141
+    21300284: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_142
+    21300286: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_143
+    21300288: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_144
+    21300290: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_145
+    21300292: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_146
+    21300294: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_147
+    21300296: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_148
+    21300298: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_149
+    21300300: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_150
+    21300302: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_151
+    21300304: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_152
+    21300306: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_153
+    21300308: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_154
+    21300310: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_155
+    21300312: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_156
+    21300314: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_157
+    21300316: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_158
+    21300318: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_159
+    21300320: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_160
+    21300322: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_161
+    21300324: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_162
+    21300326: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_163
+    21300328: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_164
+    21300330: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_165
+    21300332: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_166
+    21300334: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_167
+    21300336: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_168
+    21300338: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_169
+    21300340: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_170
+    21300342: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_171
+    21300344: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_172
+    21300346: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_173
+    21300348: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_174
+    21300350: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_175
+    21300352: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_176
+    21300354: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_177
+    21300356: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_178
+    21300358: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_179
+    21300360: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_180
+    21300362: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_181
+    21300364: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_182
+    21300366: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_183
+    21300368: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_184
+    21300370: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_185
+    21300372: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_186
+    21300374: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_187
+    21300376: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_188
+    21300378: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_189
+    21300380: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_190
+    21300382: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_191
+    21300384: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_192
+    21300386: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_193
+    21300388: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_194
+    21300390: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_195
+    21300392: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_196
+    21300394: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_197
+    21300396: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_198
+    21300398: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_199
+    21300400: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_200
+    21300402: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_201
+    21300404: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_202
+    21300406: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_203
+    21300408: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_204
+    21300410: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_205
+    21300412: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_206
+    21300414: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_207
+    21300416: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_208
+    21300418: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_209
+    21300420: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_210
+    21300422: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_211
+    21300424: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_212
+    21300426: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_213
+    21300428: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_214
+    21300430: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_215
+    21300432: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_216
+    21300434: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_217
+    21300436: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_218
+    21300438: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_219
+    21300440: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_220
+    21300442: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_221
+    21300444: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_222
+    21300446: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_223
+    21300448: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_224
+    21300450: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_225
+    21300452: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_226
+    21300454: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_227
+    21300456: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_228
+    21300458: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_229
+    21300460: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_230
+    21300462: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_231
+    21300464: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_232
+    21300466: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_233
+    21300468: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_234
+    21300470: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_235
+    21300472: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_236
+    21300474: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_237
+    21300476: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_238
+    21300478: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_239
+    21300480: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_240
+    21300482: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_241
+    21300484: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_242
+    21300486: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_243
+    21300488: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_244
+    21300490: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_245
+    21300492: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_246
+    21300494: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_247
+    21300496: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_248
+    21300498: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_249
+    21300500: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_250
+    21300502: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_251
+    21300504: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_252
+    21300506: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_253
+    21300508: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_254
+    21300510: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_255
+    21300512: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_256
+    21300514: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_257
+    21300516: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_258
+    21300518: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_259
+    21300520: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_260
+    21300522: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_261
+    21300524: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_262
+    21300526: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_263
+    21300528: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_264
+    21300530: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_265
+    21300532: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_266
+    21300534: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_267
+    21300536: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_268
+    21300538: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_269
+    21300540: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_270
+    21300542: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_271
+    21300544: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_272
+    21300546: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_273
+    21300548: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_274
+    21300550: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_275
+    21300552: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_276
+    21300554: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_277
+    21300556: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_278
+    21300558: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_279
+    21300560: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_280
+    21300562: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_281
+    21300564: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_282
+    21300566: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_283
+    21300568: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_284
+    21300570: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_285
+    21300572: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_286
+    21300574: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_287
+    21300576: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_288
+    21300578: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_289
+    21300580: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_290
+    21300582: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_291
+    21300584: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_292
+    21300586: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_293
+    21300588: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_294
+    21300590: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_295
+    21300592: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_296
+    21300594: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_297
+    21300596: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_298
+    21300598: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_299
+    21300600: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_300
+    21300602: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_301
+    21300604: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_302
+    21300606: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_303
+    21300608: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_304
+    21300610: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_305
+    21300612: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_306
+    21300614: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_307
+    21300616: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_308
+    21300618: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_309
+    21300620: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_310
+    21300622: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_311
+    21300624: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_312
+    21300626: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_313
+    21300628: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_314
+    21300630: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_315
+    21300632: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_316
+    21300634: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_317
+    21300636: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_318
+    21300638: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_319
+    21300640: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_320
+    21300642: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_321
+    21300644: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_322
+    21300646: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_323
+    21300648: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_324
+    21300650: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_325
+    21300652: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_326
+    21300654: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_327
+    21300656: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_328
+    21300658: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_329
+    21300660: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_330
+    21300662: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_331
+    21300664: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_332
+    21300666: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_333
+    21300668: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_334
+    21300670: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_335
+    21300672: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_336
+    21300674: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_337
+    21300676: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_338
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_10
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_40
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_47
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_80
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_84
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_87
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_97
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_98
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_99
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_100
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_101
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_107
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_108
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_109
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_110
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_111
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_112
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_113
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_115
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_123
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_124
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_125
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_127
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_134
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_141
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_143
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_144
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_145
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_146
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_147
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_152
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_153
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_155
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_156
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_157
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_159
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_163
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_166
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_168
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_169
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_171
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_173
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_175
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_177
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_178
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_180
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_181
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_183
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_184
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_188
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_189
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_190
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_191
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_192
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_193
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_195
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_197
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_198
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_199
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_200
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_201
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_202
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_203
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_204
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_205
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_206
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_207
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_208
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_209
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_214
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_215
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_217
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_218
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_219
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_220
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_221
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_222
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_223
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_224
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_225
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_226
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_227
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_228
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_229
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_230
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_231
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_232
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_233
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_234
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_235
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_236
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_237
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_238
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_239
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_240
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_241
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_243
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_244
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_245
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_246
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_247
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_248
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_249
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_250
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_251
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_252
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_253
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_254
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_255
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_256
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_257
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_258
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_259
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_260
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_261
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_262
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_263
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_264
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_265
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_266
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_267
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_268
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_269
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_270
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_271
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_272
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_273
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_274
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_275
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_276
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_277
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_278
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_279
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_280
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_281
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_282
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_283
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_284
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_285
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_286
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_287
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_288
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_289
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_290
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_291
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_292
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_293
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_294
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_295
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_296
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_297
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_298
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_299
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_300
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_301
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_302
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_303
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_304
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_305
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_306
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_307
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_308
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_309
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_310
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_311
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_312
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_313
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_314
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_315
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_316
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_317
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_318
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_319
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_320
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_321
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_322
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_323
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_324
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_325
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_326
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_327
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_328
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_329
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_330
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_331
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_332
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_333
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_334
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_335
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_336
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_337
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: full_kanto_in_bw_style_tileset_by_wesleyfg-d4lbm4v_338
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

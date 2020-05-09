@@ -1,0 +1,861 @@
+fileFormatVersion: 2
+guid: a94ec63472abb0c4fb4672d71087af9e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: minish_chip_forest_01_0
+    21300002: minish_chip_forest_01_1
+    21300004: minish_chip_forest_01_2
+    21300006: minish_chip_forest_01_3
+    21300008: minish_chip_forest_01_4
+    21300010: minish_chip_forest_01_7
+    21300012: minish_chip_forest_01_8
+    21300014: minish_chip_forest_01_9
+    21300016: minish_chip_forest_01_10
+    21300018: minish_chip_forest_01_11
+    21300020: minish_chip_forest_01_12
+    21300022: minish_chip_forest_01_13
+    21300024: minish_chip_forest_01_14
+    21300026: minish_chip_forest_01_15
+    21300028: minish_chip_forest_01_16
+    21300030: minish_chip_forest_01_17
+    21300032: minish_chip_forest_01_18
+    21300034: minish_chip_forest_01_19
+    21300036: minish_chip_forest_01_20
+    21300038: minish_chip_forest_01_21
+    21300040: minish_chip_forest_01_22
+    21300042: minish_chip_forest_01_23
+    21300044: minish_chip_forest_01_24
+    21300046: minish_chip_forest_01_25
+    21300048: minish_chip_forest_01_26
+    21300050: minish_chip_forest_01_27
+    21300052: minish_chip_forest_01_28
+    21300054: minish_chip_forest_01_29
+    21300056: minish_chip_forest_01_30
+    21300058: minish_chip_forest_01_33
+    21300060: minish_chip_forest_01_34
+    21300062: minish_chip_forest_01_35
+    21300064: minish_chip_forest_01_36
+    21300066: minish_chip_forest_01_37
+    21300068: minish_chip_forest_01_38
+    21300070: minish_chip_forest_01_39
+    21300072: minish_chip_forest_01_40
+    21300074: minish_chip_forest_01_41
+    21300076: minish_chip_forest_01_42
+    21300078: minish_chip_forest_01_43
+    21300080: minish_chip_forest_01_44
+    21300082: minish_chip_forest_01_45
+    21300084: minish_chip_forest_01_46
+    21300086: minish_chip_forest_01_47
+    21300088: minish_chip_forest_01_48
+    21300090: minish_chip_forest_01_49
+    21300092: minish_chip_forest_01_50
+    21300094: minish_chip_forest_01_51
+    21300096: minish_chip_forest_01_52
+    21300098: minish_chip_forest_01_53
+    21300100: minish_chip_forest_01_54
+    21300102: minish_chip_forest_01_55
+    21300104: minish_chip_forest_01_56
+    21300106: minish_chip_forest_01_57
+    21300108: minish_chip_forest_01_58
+    21300110: minish_chip_forest_01_59
+    21300112: minish_chip_forest_01_60
+    21300114: minish_chip_forest_01_61
+    21300116: minish_chip_forest_01_62
+    21300118: minish_chip_forest_01_63
+    21300120: minish_chip_forest_01_64
+    21300122: minish_chip_forest_01_65
+    21300124: minish_chip_forest_01_66
+    21300126: minish_chip_forest_01_67
+    21300128: minish_chip_forest_01_68
+    21300130: minish_chip_forest_01_69
+    21300132: minish_chip_forest_01_70
+    21300134: minish_chip_forest_01_71
+    21300136: minish_chip_forest_01_72
+    21300138: minish_chip_forest_01_73
+    21300140: minish_chip_forest_01_74
+    21300142: minish_chip_forest_01_75
+    21300144: minish_chip_forest_01_76
+    21300146: minish_chip_forest_01_77
+    21300148: minish_chip_forest_01_78
+    21300150: minish_chip_forest_01_79
+    21300152: minish_chip_forest_01_80
+    21300154: minish_chip_forest_01_81
+    21300156: minish_chip_forest_01_82
+    21300158: minish_chip_forest_01_83
+    21300160: minish_chip_forest_01_84
+    21300162: minish_chip_forest_01_85
+    21300164: minish_chip_forest_01_86
+    21300166: minish_chip_forest_01_87
+    21300168: minish_chip_forest_01_88
+    21300170: minish_chip_forest_01_89
+    21300172: minish_chip_forest_01_90
+    21300174: minish_chip_forest_01_91
+    21300176: minish_chip_forest_01_92
+    21300178: minish_chip_forest_01_93
+    21300180: minish_chip_forest_01_94
+    21300182: minish_chip_forest_01_95
+    21300184: minish_chip_forest_01_96
+    21300186: minish_chip_forest_01_97
+    21300188: minish_chip_forest_01_98
+    21300190: minish_chip_forest_01_99
+    21300192: minish_chip_forest_01_100
+    21300194: minish_chip_forest_01_101
+    21300196: minish_chip_forest_01_102
+    21300198: minish_chip_forest_01_103
+    21300200: minish_chip_forest_01_104
+    21300202: minish_chip_forest_01_105
+    21300204: minish_chip_forest_01_106
+    21300206: minish_chip_forest_01_107
+    21300208: minish_chip_forest_01_108
+    21300210: minish_chip_forest_01_109
+    21300212: minish_chip_forest_01_110
+    21300214: minish_chip_forest_01_111
+    21300216: minish_chip_forest_01_112
+    21300218: minish_chip_forest_01_113
+    21300220: minish_chip_forest_01_114
+    21300222: minish_chip_forest_01_115
+    21300224: minish_chip_forest_01_116
+    21300226: minish_chip_forest_01_117
+    21300228: minish_chip_forest_01_118
+    21300230: minish_chip_forest_01_119
+    21300232: minish_chip_forest_01_120
+    21300234: minish_chip_forest_01_121
+    21300236: minish_chip_forest_01_122
+    21300238: minish_chip_forest_01_123
+    21300240: minish_chip_forest_01_124
+    21300242: minish_chip_forest_01_125
+    21300244: minish_chip_forest_01_126
+    21300246: minish_chip_forest_01_127
+    21300248: minish_chip_forest_01_128
+    21300250: minish_chip_forest_01_129
+    21300252: minish_chip_forest_01_130
+    21300254: minish_chip_forest_01_131
+    21300256: minish_chip_forest_01_132
+    21300258: minish_chip_forest_01_133
+    21300260: minish_chip_forest_01_134
+    21300262: minish_chip_forest_01_135
+    21300264: minish_chip_forest_01_136
+    21300266: minish_chip_forest_01_137
+    21300268: minish_chip_forest_01_138
+    21300270: minish_chip_forest_01_139
+    21300272: minish_chip_forest_01_140
+    21300274: minish_chip_forest_01_141
+    21300276: minish_chip_forest_01_142
+    21300278: minish_chip_forest_01_143
+    21300280: minish_chip_forest_01_144
+    21300282: minish_chip_forest_01_145
+    21300284: minish_chip_forest_01_146
+    21300286: minish_chip_forest_01_147
+    21300288: minish_chip_forest_01_148
+    21300290: minish_chip_forest_01_149
+    21300292: minish_chip_forest_01_150
+    21300294: minish_chip_forest_01_151
+    21300296: minish_chip_forest_01_152
+    21300298: minish_chip_forest_01_153
+    21300300: minish_chip_forest_01_154
+    21300302: minish_chip_forest_01_155
+    21300304: minish_chip_forest_01_156
+    21300306: minish_chip_forest_01_157
+    21300308: minish_chip_forest_01_158
+    21300310: minish_chip_forest_01_159
+    21300312: minish_chip_forest_01_160
+    21300314: minish_chip_forest_01_161
+    21300316: minish_chip_forest_01_162
+    21300318: minish_chip_forest_01_163
+    21300320: minish_chip_forest_01_164
+    21300322: minish_chip_forest_01_165
+    21300324: minish_chip_forest_01_166
+    21300326: minish_chip_forest_01_167
+    21300328: minish_chip_forest_01_168
+    21300330: minish_chip_forest_01_169
+    21300332: minish_chip_forest_01_170
+    21300334: minish_chip_forest_01_171
+    21300336: minish_chip_forest_01_172
+    21300338: minish_chip_forest_01_173
+    21300340: minish_chip_forest_01_174
+    21300342: minish_chip_forest_01_175
+    21300344: minish_chip_forest_01_176
+    21300346: minish_chip_forest_01_177
+    21300348: minish_chip_forest_01_178
+    21300350: minish_chip_forest_01_179
+    21300352: minish_chip_forest_01_180
+    21300354: minish_chip_forest_01_181
+    21300356: minish_chip_forest_01_182
+    21300358: minish_chip_forest_01_183
+    21300360: minish_chip_forest_01_184
+    21300362: minish_chip_forest_01_185
+    21300364: minish_chip_forest_01_186
+    21300366: minish_chip_forest_01_187
+    21300368: minish_chip_forest_01_188
+    21300370: minish_chip_forest_01_189
+    21300372: minish_chip_forest_01_190
+    21300374: minish_chip_forest_01_191
+    21300376: minish_chip_forest_01_192
+    21300378: minish_chip_forest_01_193
+    21300380: minish_chip_forest_01_194
+    21300382: minish_chip_forest_01_195
+    21300384: minish_chip_forest_01_196
+    21300386: minish_chip_forest_01_197
+    21300388: minish_chip_forest_01_198
+    21300390: minish_chip_forest_01_199
+    21300392: minish_chip_forest_01_200
+    21300394: minish_chip_forest_01_201
+    21300396: minish_chip_forest_01_202
+    21300398: minish_chip_forest_01_203
+    21300400: minish_chip_forest_01_204
+    21300402: minish_chip_forest_01_205
+    21300404: minish_chip_forest_01_206
+    21300406: minish_chip_forest_01_207
+    21300408: minish_chip_forest_01_208
+    21300410: minish_chip_forest_01_209
+    21300412: minish_chip_forest_01_210
+    21300414: minish_chip_forest_01_211
+    21300416: minish_chip_forest_01_212
+    21300418: minish_chip_forest_01_213
+    21300420: minish_chip_forest_01_214
+    21300422: minish_chip_forest_01_215
+    21300424: minish_chip_forest_01_216
+    21300426: minish_chip_forest_01_217
+    21300428: minish_chip_forest_01_218
+    21300430: minish_chip_forest_01_219
+    21300432: minish_chip_forest_01_220
+    21300434: minish_chip_forest_01_221
+    21300436: minish_chip_forest_01_222
+    21300438: minish_chip_forest_01_223
+    21300440: minish_chip_forest_01_224
+    21300442: minish_chip_forest_01_225
+    21300444: minish_chip_forest_01_226
+    21300446: minish_chip_forest_01_227
+    21300448: minish_chip_forest_01_228
+    21300450: minish_chip_forest_01_229
+    21300452: minish_chip_forest_01_230
+    21300454: minish_chip_forest_01_231
+    21300456: minish_chip_forest_01_232
+    21300458: minish_chip_forest_01_233
+    21300460: minish_chip_forest_01_234
+    21300462: minish_chip_forest_01_235
+    21300464: minish_chip_forest_01_236
+    21300466: minish_chip_forest_01_237
+    21300468: minish_chip_forest_01_238
+    21300470: minish_chip_forest_01_239
+    21300472: minish_chip_forest_01_240
+    21300474: minish_chip_forest_01_241
+    21300476: minish_chip_forest_01_242
+    21300478: minish_chip_forest_01_243
+    21300480: minish_chip_forest_01_244
+    21300482: minish_chip_forest_01_245
+    21300484: minish_chip_forest_01_246
+    21300486: minish_chip_forest_01_247
+    21300488: minish_chip_forest_01_248
+    21300490: minish_chip_forest_01_249
+    21300492: minish_chip_forest_01_250
+    21300494: minish_chip_forest_01_251
+    21300496: minish_chip_forest_01_252
+    21300498: minish_chip_forest_01_253
+    21300500: minish_chip_forest_01_254
+    21300502: minish_chip_forest_01_255
+    21300504: minish_chip_forest_01_256
+    21300506: minish_chip_forest_01_257
+    21300508: minish_chip_forest_01_258
+    21300510: minish_chip_forest_01_259
+    21300512: minish_chip_forest_01_260
+    21300514: minish_chip_forest_01_261
+    21300516: minish_chip_forest_01_262
+    21300518: minish_chip_forest_01_263
+    21300520: minish_chip_forest_01_264
+    21300522: minish_chip_forest_01_265
+    21300524: minish_chip_forest_01_266
+    21300526: minish_chip_forest_01_267
+    21300528: minish_chip_forest_01_268
+    21300530: minish_chip_forest_01_269
+    21300532: minish_chip_forest_01_270
+    21300534: minish_chip_forest_01_271
+    21300536: minish_chip_forest_01_272
+    21300538: minish_chip_forest_01_273
+    21300540: minish_chip_forest_01_274
+    21300542: minish_chip_forest_01_275
+    21300544: minish_chip_forest_01_276
+    21300546: minish_chip_forest_01_277
+    21300548: minish_chip_forest_01_278
+    21300550: minish_chip_forest_01_279
+    21300552: minish_chip_forest_01_280
+    21300554: minish_chip_forest_01_281
+    21300556: minish_chip_forest_01_282
+    21300558: minish_chip_forest_01_283
+    21300560: minish_chip_forest_01_284
+    21300562: minish_chip_forest_01_285
+    21300564: minish_chip_forest_01_286
+    21300566: minish_chip_forest_01_287
+    21300568: minish_chip_forest_01_288
+    21300570: minish_chip_forest_01_289
+    21300572: minish_chip_forest_01_290
+    21300574: minish_chip_forest_01_291
+    21300576: minish_chip_forest_01_292
+    21300578: minish_chip_forest_01_293
+    21300580: minish_chip_forest_01_294
+    21300582: minish_chip_forest_01_295
+    21300584: minish_chip_forest_01_296
+    21300586: minish_chip_forest_01_297
+    21300588: minish_chip_forest_01_298
+    21300590: minish_chip_forest_01_299
+    21300592: minish_chip_forest_01_300
+    21300594: minish_chip_forest_01_301
+    21300596: minish_chip_forest_01_302
+    21300598: minish_chip_forest_01_303
+    21300600: minish_chip_forest_01_304
+    21300602: minish_chip_forest_01_305
+    21300604: minish_chip_forest_01_306
+    21300606: minish_chip_forest_01_307
+    21300608: minish_chip_forest_01_308
+    21300610: minish_chip_forest_01_309
+    21300612: minish_chip_forest_01_310
+    21300614: minish_chip_forest_01_311
+    21300616: minish_chip_forest_01_312
+    21300618: minish_chip_forest_01_313
+    21300620: minish_chip_forest_01_314
+    21300622: minish_chip_forest_01_315
+    21300624: minish_chip_forest_01_316
+    21300626: minish_chip_forest_01_317
+    21300628: minish_chip_forest_01_318
+    21300630: minish_chip_forest_01_319
+    21300632: minish_chip_forest_01_320
+    21300634: minish_chip_forest_01_321
+    21300636: minish_chip_forest_01_322
+    21300638: minish_chip_forest_01_323
+    21300640: minish_chip_forest_01_324
+    21300642: minish_chip_forest_01_325
+    21300644: minish_chip_forest_01_326
+    21300646: minish_chip_forest_01_327
+    21300648: minish_chip_forest_01_328
+    21300650: minish_chip_forest_01_329
+    21300652: minish_chip_forest_01_330
+    21300654: minish_chip_forest_01_331
+    21300656: minish_chip_forest_01_332
+    21300658: minish_chip_forest_01_333
+    21300660: minish_chip_forest_01_334
+    21300662: minish_chip_forest_01_335
+    21300664: minish_chip_forest_01_336
+    21300666: minish_chip_forest_01_337
+    21300668: minish_chip_forest_01_338
+    21300670: minish_chip_forest_01_339
+    21300672: minish_chip_forest_01_340
+    21300674: minish_chip_forest_01_341
+    21300676: minish_chip_forest_01_342
+    21300678: minish_chip_forest_01_343
+    21300680: minish_chip_forest_01_344
+    21300682: minish_chip_forest_01_345
+    21300684: minish_chip_forest_01_346
+    21300686: minish_chip_forest_01_347
+    21300688: minish_chip_forest_01_348
+    21300690: minish_chip_forest_01_349
+    21300692: minish_chip_forest_01_350
+    21300694: minish_chip_forest_01_351
+    21300696: minish_chip_forest_01_352
+    21300698: minish_chip_forest_01_353
+    21300700: minish_chip_forest_01_354
+    21300702: minish_chip_forest_01_355
+    21300704: minish_chip_forest_01_356
+    21300706: minish_chip_forest_01_357
+    21300708: minish_chip_forest_01_358
+    21300710: minish_chip_forest_01_359
+    21300712: minish_chip_forest_01_360
+    21300714: minish_chip_forest_01_361
+    21300716: minish_chip_forest_01_362
+    21300718: minish_chip_forest_01_363
+    21300720: minish_chip_forest_01_364
+    21300722: minish_chip_forest_01_365
+    21300724: minish_chip_forest_01_366
+    21300726: minish_chip_forest_01_367
+    21300728: minish_chip_forest_01_368
+    21300730: minish_chip_forest_01_369
+    21300732: minish_chip_forest_01_370
+    21300734: minish_chip_forest_01_371
+    21300736: minish_chip_forest_01_372
+    21300738: minish_chip_forest_01_373
+    21300740: minish_chip_forest_01_374
+    21300742: minish_chip_forest_01_375
+    21300744: minish_chip_forest_01_376
+    21300746: minish_chip_forest_01_377
+    21300748: minish_chip_forest_01_378
+    21300750: minish_chip_forest_01_379
+    21300752: minish_chip_forest_01_380
+    21300754: minish_chip_forest_01_381
+    21300756: minish_chip_forest_01_382
+    21300758: minish_chip_forest_01_383
+    21300760: minish_chip_forest_01_384
+    21300762: minish_chip_forest_01_385
+    21300764: minish_chip_forest_01_386
+    21300766: minish_chip_forest_01_387
+    21300768: minish_chip_forest_01_388
+    21300770: minish_chip_forest_01_389
+    21300772: minish_chip_forest_01_390
+    21300774: minish_chip_forest_01_391
+    21300776: minish_chip_forest_01_392
+    21300778: minish_chip_forest_01_393
+    21300780: minish_chip_forest_01_394
+    21300782: minish_chip_forest_01_395
+    21300784: minish_chip_forest_01_396
+    21300786: minish_chip_forest_01_397
+    21300788: minish_chip_forest_01_398
+    21300790: minish_chip_forest_01_399
+    21300792: minish_chip_forest_01_400
+    21300794: minish_chip_forest_01_401
+    21300796: minish_chip_forest_01_402
+    21300798: minish_chip_forest_01_403
+    21300800: minish_chip_forest_01_404
+    21300802: minish_chip_forest_01_405
+    21300804: minish_chip_forest_01_406
+    21300806: minish_chip_forest_01_407
+    21300808: minish_chip_forest_01_408
+    21300810: minish_chip_forest_01_409
+    21300812: minish_chip_forest_01_410
+    21300814: minish_chip_forest_01_411
+    21300816: minish_chip_forest_01_412
+    21300818: minish_chip_forest_01_5
+    21300820: minish_chip_forest_01_6
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minish_chip_forest_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dbf318263506b4ea866f0975053aaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0bbf27c4c2d36448f2f2722030c2a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1536013ca9534cabd259b3e59db3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b4ef676666e0043b19b839b0421f5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f011b69be4e8cf408b0b75ad8c609d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3190c75d0e0a484580358eafce94959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316750eb2bc8bf54c96b372f0ea85c24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d3b0d2c53bb549b1435bee8f0fa6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f34d126288e194da18bba958c53220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 96
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86d40bd9caf18e40bee6eedfe4159a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f841d5d330e9774ea0c11fdc13fd669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0738eca807e5c1a46b2bdbd18aaa4179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_12
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 163
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673fc8d5bc5a15c49914975b02a2eede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 177
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965dc43692f8cec41b6546beacdd563f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9511499904d52274d9e6c34adf8d263a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868f4329a888a804e83aa91229df28f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minish_chip_forest_01_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 72
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f230b2af55b09834eacb3df65215829a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5ae8a545ddf97944381786263cd13681
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

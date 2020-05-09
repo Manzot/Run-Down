@@ -1,0 +1,2247 @@
+fileFormatVersion: 2
+guid: c03371bfec075a14f9f0b89fb78308ea
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_0
+    21300002: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_1
+    21300004: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_2
+    21300006: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_3
+    21300008: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_4
+    21300010: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_5
+    21300012: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_6
+    21300014: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_7
+    21300016: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_8
+    21300018: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_9
+    21300020: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_10
+    21300022: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_11
+    21300024: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_12
+    21300026: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_13
+    21300028: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_14
+    21300030: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_15
+    21300032: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_16
+    21300034: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_17
+    21300036: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_18
+    21300038: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_19
+    21300040: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_20
+    21300042: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_21
+    21300044: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_22
+    21300046: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_23
+    21300048: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_24
+    21300050: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_25
+    21300052: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_26
+    21300054: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_27
+    21300056: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_28
+    21300058: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_29
+    21300060: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_30
+    21300062: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_31
+    21300064: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_32
+    21300066: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_33
+    21300068: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_34
+    21300070: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_35
+    21300072: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_36
+    21300074: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_37
+    21300076: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_38
+    21300078: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_39
+    21300080: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_40
+    21300082: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_41
+    21300084: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_42
+    21300086: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_43
+    21300088: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_44
+    21300090: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_45
+    21300092: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_46
+    21300094: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_47
+    21300096: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_48
+    21300098: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_49
+    21300100: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_50
+    21300102: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_51
+    21300104: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_52
+    21300106: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_53
+    21300108: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_54
+    21300110: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_55
+    21300112: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_56
+    21300114: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_57
+    21300116: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_58
+    21300118: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_59
+    21300120: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_60
+    21300122: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_61
+    21300124: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_62
+    21300126: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_63
+    21300128: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_64
+    21300130: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_65
+    21300132: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_66
+    21300134: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_67
+    21300136: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_68
+    21300138: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_69
+    21300140: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_70
+    21300142: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_71
+    21300144: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_72
+    21300146: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_73
+    21300148: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_74
+    21300150: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_75
+    21300152: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_76
+    21300154: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_77
+    21300156: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_78
+    21300158: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_79
+    21300160: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_80
+    21300162: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_81
+    21300164: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_82
+    21300166: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_83
+    21300168: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_84
+    21300170: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_85
+    21300172: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_86
+    21300174: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_87
+    21300176: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_88
+    21300178: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_89
+    21300180: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_90
+    21300182: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_91
+    21300184: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_92
+    21300186: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_93
+    21300188: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_94
+    21300190: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_95
+    21300192: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_96
+    21300194: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_97
+    21300196: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_98
+    21300198: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_99
+    21300200: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_100
+    21300202: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_101
+    21300204: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_102
+    21300206: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_103
+    21300208: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_104
+    21300210: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_105
+    21300212: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_106
+    21300214: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_107
+    21300216: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_108
+    21300218: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_109
+    21300220: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_110
+    21300222: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_111
+    21300224: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin
+      - Copy_112
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 360
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5990feb899cac6d4f979e49b6ad15a26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 360
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ec0d1e1dd84e42b4baba140032f73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 360
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447fb884b9071bd40becc070efea534d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 359
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a623b6846d3ce24b87f2f0c3c17dcd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 365
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f08b011fa1dd6f4ea3dac3d4e24a369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 365
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342bac9cdcc239046abe9008fee6b696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 365
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6483a026efc1d408a3c25befdfe2c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 364
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f5065105207c8458d6d94fa6cbaebb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 326
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ce29b3b57fcf74cb2dcba2f3286ab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 326
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e246b9d5d8c304da0ac423b72b3abd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 326
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e1c5110f7ac749a7e1d950c608d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 326
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9318e48338373a4a8efeba61ee8e7a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 331
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fe46641bad59b4983ed5c7db83d62e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 331
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b53f88c8471e044bf97855c7cd6a61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_14
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 331
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a5c03058ca614a93ae8066bbcd653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_15
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 331
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c5019068d23f64f9ad2d419d8667ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 292
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407d62fcb54d2ce43843482f37b4eee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 292
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b276ca2420f704badc92b6b0b5ee91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 292
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010c3efe515c8a84d83d23046c5e7fdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 292
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555fd6dbcc6c8f94eaabf0f9e92ad4cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 297
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab59569842122a6418e3aac4cec37da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 297
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf537bdbd50699a49aad83a4b9941f1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 297
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3668dd2fce59d408437a86c14cee71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_23
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 297
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05f9971746597649be1b23319853c13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 251
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbd17e59b599714da2b1d44a3fdf11e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 253
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6900d165f224449f9a6e3be52dc0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 251
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f4ab4d63aeaf9459bdaa9d17464ce0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 249
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a96acdca4027c449a3a390d0c3b361e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 256
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba3b1d8a08c88541a74bd2ef2deabd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 258
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9690d1e93560fa1409bda68aa58c5c41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_30
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 256
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c89d4d4eae6ba4d94c58035af6b3da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_31
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 254
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23f15cc559ced4478ed32f6a3c0378e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_37
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 235
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f949de5b9b90a441b3787b03721762a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecbd63eaa6dae045b83f8ca48a93b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_39
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b41164450b73e74ba6aa3fc4ccbc6e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 234
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ca34e657630734797408889a38c9bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_41
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 233
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b045c169121bbab4a9c76cc626580cad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_42
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971ecdb70656b184c8b58315d0615ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_45
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 180
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d823647ba84812949bfd9a3904afd514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 180
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42bcf94002c205479fe5926b4e1c07b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 180
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b208738efe3224eb15af8f44494be5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 180
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e70b1046ec6c848abfb898bcdbe0d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_50
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 185
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43c76cd706d3e94997ae0d428c63c43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 185
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666dc3b719e8429468a2bce95534b0ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_52
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 185
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df16b03817c3a654c8c55df0fa8b8f40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_53
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 185
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124a329a9ae8d1e44a9ce58b31305bf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 143
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f01a62947d3745af7bde3d767ba15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 143
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f24a4d741b39740977e12dc4818875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_56
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 143
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e067e9dbb8b4bb4e8b499546fde1617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13564289a8243b843a3f459fd52278f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 148
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9188ccb18d466c449ca2e7ce44e17e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_59
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 148
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b8b89516d002e47b8a2457c0067521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_60
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 148
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe91fb6926f2194abe335f3e21406b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_61
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 148
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c1e914cca1a2f4b8b002e8712edb0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 103
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419d474039efeb548b84e8c343e25546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 103
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d05882ffbf462c49b904afef6c4fa39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 103
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10c926dc22503e47afd4fd7ee5423de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_65
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 103
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0987e8aca40b57e4f8bee4be71052c83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_66
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 108
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7e5047461e8db4491c38684258f312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_67
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 108
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1440b6c2fed7fb3429c66217de9aa8d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_68
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 108
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c11bceebfc10a94dbd15fcfd9ace5b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_69
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 108
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a727b4546383271429212fb2cd36da34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_70
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 57
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73931979cb5ed64e86521d7f6977a03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_71
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 59
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456878da724fb7c4ebc09ff20508b80c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_72
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 57
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7de539b01a09a5438170e53e05c3b5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_73
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 59
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495c6c33bd72c3947816861e6f333caf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_74
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 62
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2f3ee99eb8a6439ef3845af161482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_75
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 64
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3060835bba00501449d3b61f4e59e5e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_76
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 62
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8869eddbcb135cc43b4c00ea6f18e873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_77
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 64
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dcf35df0b0a01408196a3b79acac95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_80
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea036230aa471f24490fec2134ee8acb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0972c89def5cdb34ab124c1df959b5de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_82
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 21
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a6a3b044fffe94c89b49183b4cf7fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_83
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 25
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745db822557ec784f8710f4474cf9af6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 29
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad19bedba1be5f7489d71bd72df360fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_85
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 28
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c3d3ea3ca37dc40b3e6683bda367d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_86
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 26
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3320bc6935be498488519176eacdb75f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_87
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 25
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e62b6f78a52a4fadd488a621ad373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 25
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a78b11329bf8149b424698d75b55ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_89
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 25
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6d87d4dc2f2542a2259de7cf79941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_90
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 26
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de9c7d44ab7f624e9d17282c59bace6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_91
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 36
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404a31a8109d9ae46845adfa0e95d1eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_92
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 26
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947f86bb8e6ec1745a6d5011f30fb434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_93
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 25
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6457db4bce98d4493c997b98dab7e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 25
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb4f95344cf83b428c577b9106dbad8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_95
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 25
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8884807c854caf34f8cd371291955b8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_96
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 25
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536e839275665104691ad5a471ece395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_100
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1cc62877512704e9ce28b8aea490b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_101
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 25
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc5545c9580ebe48b58086f9471c57d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_102
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 25
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ec8fa93ffb5142b0bddf34d7b71c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Spear Moblin -
+        Copy_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80959bd33b8a1441bd963e24cb6cc5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fbcdf0833729ba14bbcb0280a7cba815
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2945 @@
+fileFormatVersion: 2
+guid: ca394622ae1474d47a5bdd15d3667582
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zeldas---Copy_0
+    21300002: zeldas---Copy_1
+    21300004: zeldas---Copy_2
+    21300006: zeldas---Copy_3
+    21300008: zeldas---Copy_4
+    21300010: zeldas---Copy_5
+    21300012: zeldas---Copy_6
+    21300014: zeldas---Copy_7
+    21300016: zeldas---Copy_8
+    21300018: zeldas---Copy_9
+    21300020: zeldas---Copy_10
+    21300022: zeldas---Copy_11
+    21300024: zeldas---Copy_12
+    21300026: zeldas---Copy_13
+    21300028: zeldas---Copy_14
+    21300030: zeldas---Copy_15
+    21300032: zeldas---Copy_16
+    21300034: zeldas---Copy_17
+    21300036: zeldas---Copy_18
+    21300038: zeldas---Copy_19
+    21300040: zeldas---Copy_20
+    21300042: zeldas---Copy_21
+    21300044: zeldas---Copy_22
+    21300046: zeldas---Copy_23
+    21300048: zeldas---Copy_24
+    21300050: zeldas---Copy_25
+    21300052: zeldas---Copy_26
+    21300054: zeldas---Copy_27
+    21300056: zeldas---Copy_28
+    21300058: zeldas---Copy_29
+    21300060: zeldas---Copy_30
+    21300062: zeldas---Copy_31
+    21300064: zeldas---Copy_32
+    21300066: zeldas---Copy_33
+    21300068: zeldas---Copy_34
+    21300070: zeldas---Copy_35
+    21300072: zeldas---Copy_36
+    21300074: zeldas---Copy_37
+    21300076: zeldas---Copy_38
+    21300078: zeldas---Copy_39
+    21300080: zeldas---Copy_40
+    21300082: zeldas---Copy_41
+    21300084: zeldas---Copy_42
+    21300086: zeldas---Copy_43
+    21300088: zeldas---Copy_44
+    21300090: zeldas---Copy_45
+    21300092: zeldas---Copy_46
+    21300094: zeldas---Copy_47
+    21300096: zeldas---Copy_48
+    21300098: zeldas---Copy_49
+    21300100: zeldas---Copy_50
+    21300102: zeldas---Copy_51
+    21300104: zeldas---Copy_52
+    21300106: zeldas---Copy_53
+    21300108: zeldas---Copy_54
+    21300110: zeldas---Copy_55
+    21300112: zeldas---Copy_56
+    21300114: zeldas---Copy_57
+    21300116: zeldas---Copy_58
+    21300118: zeldas---Copy_59
+    21300120: zeldas---Copy_60
+    21300122: zeldas---Copy_61
+    21300124: zeldas---Copy_62
+    21300126: zeldas---Copy_63
+    21300128: zeldas---Copy_64
+    21300130: zeldas---Copy_65
+    21300132: zeldas---Copy_66
+    21300134: zeldas---Copy_67
+    21300136: zeldas---Copy_68
+    21300138: zeldas---Copy_69
+    21300140: zeldas---Copy_70
+    21300142: zeldas---Copy_71
+    21300144: zeldas---Copy_72
+    21300146: zeldas---Copy_73
+    21300148: zeldas---Copy_74
+    21300150: zeldas---Copy_75
+    21300152: zeldas---Copy_76
+    21300154: zeldas---Copy_77
+    21300156: zeldas---Copy_78
+    21300158: zeldas---Copy_79
+    21300160: zeldas---Copy_80
+    21300162: zeldas---Copy_81
+    21300164: zeldas---Copy_82
+    21300166: zeldas---Copy_83
+    21300168: zeldas---Copy_84
+    21300170: zeldas---Copy_85
+    21300172: zeldas---Copy_86
+    21300174: zeldas---Copy_87
+    21300176: zeldas---Copy_88
+    21300178: zeldas---Copy_89
+    21300180: zeldas---Copy_90
+    21300182: zeldas---Copy_91
+    21300184: zeldas---Copy_92
+    21300186: zeldas---Copy_93
+    21300188: zeldas---Copy_94
+    21300190: zeldas---Copy_95
+    21300192: zeldas---Copy_96
+    21300194: zeldas---Copy_97
+    21300196: zeldas---Copy_98
+    21300198: zeldas---Copy_99
+    21300200: zeldas---Copy_100
+    21300202: zeldas---Copy_101
+    21300204: zeldas---Copy_102
+    21300206: zeldas---Copy_103
+    21300208: zeldas---Copy_104
+    21300210: zeldas---Copy_105
+    21300212: zeldas---Copy_106
+    21300214: zeldas---Copy_107
+    21300216: zeldas---Copy_108
+    21300218: zeldas---Copy_109
+    21300220: zeldas---Copy_110
+    21300222: zeldas---Copy_111
+    21300224: zeldas---Copy_112
+    21300226: zeldas---Copy_113
+    21300228: zeldas---Copy_114
+    21300230: zeldas---Copy_115
+    21300232: zeldas---Copy_116
+    21300234: zeldas---Copy_117
+    21300236: zeldas---Copy_118
+    21300238: zeldas---Copy_119
+    21300240: zeldas---Copy_120
+    21300242: zeldas---Copy_121
+    21300244: zeldas---Copy_122
+    21300246: zeldas---Copy_123
+    21300248: zeldas---Copy_124
+    21300250: zeldas---Copy_125
+    21300252: zeldas---Copy_126
+    21300254: zeldas---Copy_127
+    21300256: zeldas---Copy_128
+    21300258: zeldas---Copy_129
+    21300260: zeldas---Copy_130
+    21300262: zeldas---Copy_131
+    21300264: zeldas---Copy_132
+    21300266: zeldas---Copy_133
+    21300268: zeldas---Copy_134
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 3
+    mipMapFadeDistanceEnd: 5
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zeldas---Copy_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 835
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95db0fb0f8797ac4190208586bee0de0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 835
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b79be8ee1ab674f8d5a8846b5a9808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 835
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63525042d0824b3488a9e00c929eb81a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 835
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee397069036fd4397217702b65e80b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 835
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb157e822a70744bb781c039d7fd132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 835
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9baffb31cb2d7b4e9e3fb895af56aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 835
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b88e49ba8fd448944dca45c87ba88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 835
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46faf21bc10dea4da99c398093dacde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 834
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addedf6f22fabec49990dfe9f0a89c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 834
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6325bf109ea209445ba70688d3b03afe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 834
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7153943bd125de042828888234f07a92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 834
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8a3359a80f2b04ea37795bc6830300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 834
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa50c1abdc86db4f895d1a5b8562071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 834
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a08e8f03ad4ca4bb2390aa172e2ae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 784
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5917e3ec30997b648a4a1127347c1309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 784
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd230c1d4c08032478faa2fa2119b4e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 784
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2637c42e37fab6f408b3b586b5d07485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 784
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37257d2fc26784149a3ebcf494c86ded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 784
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ab40b538aaa934084c61ecd8bbb38c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 784
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f90d064c61c864288bb74bc88bfb70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 785
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a0b225b90721146b6762c1c6702f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 785
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783886fe036de0747821dca9bf6e7e54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 785
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3d658453a9aa54d92cc44cc5da8cf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 785
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0179d2abc8fbd324186174d65417ef43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_24
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 785
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392cf5a214d98154ab8401b898580f4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 785
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcd9de20e5fe9a4eaef44e8eede5eaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_26
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 785
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c703c482c7544587c97b2a6e0ff97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_27
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 785
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd7942490e72504eb662b0b5cb687ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 734
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de0cf3e92f2ed54885950b38cfeca7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 734
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9337b9e00f3c14287417afcd71e22d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 734
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c476844585157ef41b570d69bbf65454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 734
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158bd0482e0453941b200317d56052ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 734
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da903ed4be9c7b47934933b1b790798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 734
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf64ee55a31f754286f9190a72fbfd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 734
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31b7a66f0b387f40bef7963ffaa3009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 734
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2277ae7e638e640bd2d34432606a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_36
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 734
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635a9d613a7598245b8d4886d8ab7c50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_37
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 734
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d11bfcdf9face41ad963e2e4e54ce9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 734
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcb96ecc17ea7647b46e69fe8e469cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_39
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 734
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a0de77426dfb74eb7f799de286a5a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_40
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 734
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1857f40e445f90469e1901ec719d34d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_41
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 734
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c585a436599c45048a59e2961e109c67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 683
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1234b5582c493fd4f991d6f5320a4ba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 683
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c01cec32d094a4dbaf879dc871a1d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 683
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9276a90e5895c4499afb106749ec04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 683
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbccf07830e715a4ab91b38c9177bf12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 683
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2602d9aca2b369e4dbaf9c565baebe13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 683
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8da3eadb6684740a56950447c002bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 683
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65eec6224f3083448ed3022582fa71d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 683
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ae341b419d4db49bae6094eaa46e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 683
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b8f0315d1c204e8eaacd480810b8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 683
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e572f2118c5db8e478e78b23152e5536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 683
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a50821d1f717694189bc166e351356b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 628
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.59, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f291cb67a51e5f748a32a34a781a299e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 630
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.39, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be128cd097c00d40b28552226a0c3da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_55
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 630
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cd566ec0275a74fbe819f2f6ff6019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 630
+        width: 33
+        height: 23
+      alignment: 9
+      pivot: {x: 0.295, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02475e4c14e5ab48bb5cf00609bf77b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_57
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 626
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.35, y: 0.1424}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec08a4e356789c4f855a2c00d7edbfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_58
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 621
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.33, y: 0.28}
+      border: {x: 0, y: 9, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce28547e16c09439c701329c68c28b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 617
+        width: 19
+        height: 36
+      alignment: 9
+      pivot: {x: 0.62, y: 0.305}
+      border: {x: 0, y: 11, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97dc5fae0691c34cb0033da037b43e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 568
+        width: 19
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.305}
+      border: {x: 0, y: 11, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8c0fab9380de7468057bfbc99729ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 572
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.67, y: 0.281}
+      border: {x: 0, y: 9, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b1a2d11dae858429021944d89e1343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 577
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.67, y: 0.1424}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311c39b404f8e5a47976a6f6747ddf61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_63
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 581
+        width: 33
+        height: 23
+      alignment: 9
+      pivot: {x: 0.72, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acfe8cb6d5b1154ea51611de497f608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 581
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.71, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf9edf22721654ab3a33a85b5fb9bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_65
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 581
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b77f3a54df01f141b8f0db0a1c622c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 579
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.46, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4034b921606225544900eda0f54679b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_67
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 533
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.668, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09619048e241e5244a57899596e5fde0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_68
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 523
+        width: 20
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54, y: 0.263}
+      border: {x: 0, y: 10, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c196bfece10da4498b4249796987fe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 521
+        width: 19
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.308}
+      border: {x: 0, y: 12, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51138fee4c7924498140cc393eb2bbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_70
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 523
+        width: 26
+        height: 36
+      alignment: 9
+      pivot: {x: 0.38, y: 0.278}
+      border: {x: 0, y: 10, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52200770bd37ad34a97a92d0fa7988a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 525
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.31, y: 0.236}
+      border: {x: 0, y: 8, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6345cafd499d042bf27ead3b48358c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_72
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 533
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.28, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3090b969b9f484289480e123e4ee87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_73
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 484
+        width: 26
+        height: 23
+      alignment: 9
+      pivot: {x: 0.296, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5986f2a7794f8a547a01292015651916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_74
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 484
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2885873356a644a8271af0a5c8a723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 484
+        width: 18
+        height: 31
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4773ae9f4a2a094992abdafdd05beda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_76
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 484
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.63, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c116af286bdc4ad41a70b2a6aba95d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_77
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 484
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.685, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6db1ee9aef958340b6e5484c2a0cb9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_78
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 484
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.72, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ec9e5b6be6e1e42b596cca03803cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_79
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 443
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d2452fb1e20604ea3f46aa90c57251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 443
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107eeeee9e3b9349a000315d478dba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_81
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 443
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3364ef43f543cc4c8eb1d13afe9e964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_82
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 443
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d1b342ccdf00468807d647e444053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_83
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 402
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a29e9aac6a2f4fa00738e91885795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 402
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f9e51c1c70d0e47bfa87a23f4bf6b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_85
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 402
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b273e7289594390438ad09be50971d97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_86
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 402
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7dcb93605a6154083815a3c4c55d37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 365
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1354eadfcde7118479d50b1656723bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_88
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 365
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b6d46e88c7b6e4b802b43184a0729d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_89
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 366
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab72e6427afcff40abf4072779a5b08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_90
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 368
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85df702aa24606b4b827967b9cced881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 330
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b725b419550c9b47ae7686d794afcd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_92
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 328
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c08e99d649142479fd020652027e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 326
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d251cbfe4c55f4b8de5e0e805263b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_94
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 327
+        width: 18
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258667b24a5eb654ab4ce3505d1c8dba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_95
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 327
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1b7feb673df024baadf8bb7eca0f4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_96
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 327
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78d01dc7ba48f44bbb9c8ff6215b9e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 288
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ac8fe30a6a29f44b4c56b0854ca9e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_98
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 288
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf498ce0698e145875bb20527302b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_99
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 291
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b3c98be0084354397203e2b8886bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_100
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 291
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973b44ffb9d1e6a40b33f439d9dc0174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_101
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 254
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb6a26b8be52ec479c6ee927d82b4c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_102
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 254
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d92342f7224f845b9e8b8c632d41c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_103
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 254
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e736c95635dd44743b8dabf074bebb5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_104
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 254
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005d4ae133fece442bc9f275d258d792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_105
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 216
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2623808659d95504ab0da219f659213d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_106
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 216
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c637c40146bc048ab9aac0e29cd838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_107
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 216
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6770523fb966ed24bbc9c490c9fb31ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_108
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 216
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbd1d0d1977b2343aaa0eaf90599cef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_109
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 179
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf821a77e90121f4480628fa6bcee538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_110
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 179
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea50ccd240238d4095e319861c6dcfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_111
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 179
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fc7378fcfd7c44db3ddc1b6e6b1fc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_112
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 179
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf64843e8443e4890dd7b9e3a2a976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 147
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3cc79527edd048a4ccf243c114757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_114
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 147
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec3de45c517a2248a117e473f6bafaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_115
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd2df8c6ae1bd43bfb15e48116bd0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_116
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c05f257689ce194f8fb113bbcb7e931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_117
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a607a25d8879742833aff792aa3bf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c492531a11f76624d8ecf3c13bbf0459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 45
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52ea4cdb0f4ba40a8a81ac38fa18a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_120
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 45
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860da0b58e672d24d81d35213053d5dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ca89308ccd47a4eab66c700681c0a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_122
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 12
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ede003b79c39f49b36610871f9565c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_123
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 12
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a313e6041d36de74586a828a5df0c5b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_124
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 12
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b0d1946a294e478413244301f294b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_125
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 12
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609e86dd9eaaaab4ebb81e58662c08f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_126
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 12
+        width: 24
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d15284f38cfdb4686582a31ea63cf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_127
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 12
+        width: 26
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53fabd16ba387a41a935d375bd1719e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_128
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 12
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc7449a5abdbee4f89b514bab6f31b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_129
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 11
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652de3d2dad61f247bcb0533f161830e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_130
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 11
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b69326b65b6e0e45845e6619c58f6a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_131
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 14
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819fc5c19492cbd46b38b890f8639793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_132
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 16
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e2d274a67f1d44aa8809c6b4dab974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_133
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 19
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4170c1f3e8f23e14f90a78f7466d4201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeldas---Copy_134
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 20
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5fe24d14b743544ba391c0932a0b90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

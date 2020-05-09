@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"player",
+				"player\tPlayerControls"
+			],
+			[
+				"anim",
+				"Animator\tAnimator"
+			],
+			[
+				"vecto",
+				"Vector3\tVector3"
+			],
+			[
+				"getcom",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"rigid",
+				"Rigidbody2D\tRigidbody2D"
+			],
+			[
+				"setv",
+				"SetBool(int id, bool value)\tvoid"
+			],
+			[
+				"Anima",
+				"Animator\tAnimator"
+			],
+			[
+				"getc",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"move",
+				"MovePosition(Vector2 position)\tvoid"
+			],
+			[
+				"ad",
+				"AddForce(Vector2 force)\tvoid"
+			],
+			[
+				"Coll",
+				"Collision\tCollision"
+			],
+			[
+				"des",
+				"DestroyedAfterSeconds()\tvoid"
+			],
+			[
+				"uni",
+				"UnityEngine"
+			],
+			[
+				"de",
+				"destroyAfterSeconds"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/MainPlayer"
+	],
+	"file_history":
+	[
+		"/E/WorkSpace/WORKBENCH/WebWORK/DefaceGames/@theme_wp/undercustoms_csphp/css/bootstrap.min.css",
+		"/E/WorkSpace/WORKBENCH/WebWORK/DefaceGames/@theme_wp/darkcustoms/style.css",
+		"/C/Users/Amanz/AppData/Roaming/Sublime Text 3/Packages/perfectionist/perfectionist.sublime-settings",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wordfence-waf.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-comments-post.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-blog-header.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-config-sample.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-activate.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-links-opml.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-cron.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-load.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-settings.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-mail.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-login.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-signup.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/wp-trackback.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/xmlrpc.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/installer-backup.php",
+		"/C/Users/Amanz/AppData/Local/Temp/7zO44C83F08/README.md",
+		"/E/WorkSpace/WORKBENCH/WebWORK/DefaceGames/@theme_wp/darkcustoms/js/navigation.js",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/online-cab-booking/index.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/online-cab-booking/lcity.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/online-cab-booking/lostfound.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/online-cab-booking/aboutus.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/online-cab-booking/acity.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/online-cab-booking/ccity.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/online-cab-booking/contact.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/online-cab-booking/feedback.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/online-cab-booking/includes/footer.html",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/online-cab-booking/includes/connection.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/online-cab-booking/booking1.php",
+		"/E/WorkSpace/WORKBENCH/Deface Games/2018/May/3. Top 20 Offline Android Games 2018/Offline android games 2018.txt",
+		"/E/Softwares/Professional/@MICROSOFT/Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013/VSUlt-Nov8-2013.txt",
+		"/E/WorkSpace/WORKBENCH/WebWORK/zotad project/Auction-v1/Web.Config",
+		"/E/WorkSpace/WORKBENCH/WebWORK/zotad project/Auction/Web.Config",
+		"/E/WorkSpace/WORKBENCH/WebWORK/zotad project/Auction-v1/Web.config.bak",
+		"/E/Softwares/Professional/@MICROSOFT/Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013/UltKey.txt",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/defacegames-new/wp-config.php",
+		"/E/WorkSpace/WORKBENCH/XAMPP/htdocs/wordpress/wp-config.php",
+		"/E/workspace/workbench/XAMPP/php/php.ini",
+		"/C/Users/Amanz/Downloads/Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013/UltKey.txt",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/Traps/BlastingMines.cs",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/MainPlayer/PlayerStats.cs",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/MainPlayer/PlayerControls.cs",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/FrintalJumpGame.sublime-project",
+		"/E/WorkSpace/UNITY/Projects/Frontal Jump/Assets/Scripts/NPC/NPCMovements.cs",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/custom.css",
+		"/E/WorkSpace/WORKBENCH/Deface Games/2018/May/1. offline shooter games android/offline shooter android games 2018.txt",
+		"/C/Users/Amanz/AppData/Local/Temp/7zO4E4B3A8C/How to Install.txt",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/widget-portfolio.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/template-videopage 2.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/widget-static-content.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/template-videopage.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/template-homepage-1.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/style.css",
+		"/E/WorkSpace/@INTIGER/PROJECTS/PROTOTYPE2/dayparts-dashboard.html",
+		"/E/WorkSpace/@INTIGER/PROJECTS/PROTOTYPE2/index.html",
+		"/E/WorkSpace/@INTIGER/PROJECTS/PROTOTYPE2/phx-dayparts.html",
+		"/E/WorkSpace/@INTIGER/PROJECTS/PROTOTYPE2/phx-recipe.html",
+		"/E/WorkSpace/@INTIGER/PROJECTS/PROTOTYPE2/css/custom.css",
+		"/E/WorkSpace/@INTIGER/PROJECTS/PROTOTYPE2/phx-dayparts-alt.html",
+		"/E/Essentials/Operating Systems/Windows/Windows 10/Tools/context menu/readme.txt",
+		"/E/Softwares/Professional/@ADOBE/Plugins/editwithphotoshop.txt",
+		"/E/Softwares/Professional/Sublime/Sublime key.txt",
+		"/E/Softwares/Professional/Sublime/Sublime settings.txt",
+		"/C/Users/Amanz/Downloads/Serious Sam VR The Last Hope/Bin/SmartSteamEmu.ini",
+		"/C/Users/Amanz/Downloads/Serious Sam VR The Last Hope/Content/SeriousSamTLH/Config/CPU-options.xml",
+		"/C/Users/Amanz/Downloads/Serious Sam VR The Last Hope/Temp/run.txt",
+		"/C/Users/Amanz/Downloads/Serious Sam VR The Last Hope/!Must Read!.txt",
+		"/E/WorkSpace/Site Backups/Deface Games/htaccess_Backup_for_defacegames.com.txt",
+		"/E/WorkSpace/Site Backups/Deface Games/2017/May20 FULL/installer.php",
+		"/E/WorkSpace/Site Backups/Deface Games/2017/May20 FULL/defacegames.wordpress.2017-06-08.xml",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/gd-config.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/submenu-page-extensions.php",
+		"/C/Users/Amanz/AppData/Local/Temp/7zO44736F6C/submenu-page-extensions.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/issue-postBadTitle.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/pvphefab.php",
+		"/C/Users/Amanz/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Amanz/Downloads/hosts",
+		"/E/Softwares/Professional/@ADOBE/Adobe CC/Adobe Photoshop CC 2018 v19.0.0 x64 64bit incl Patch - Crackingpatching/How to Install.txt",
+		"/E/WorkSpace/RESOURCES/FONTS/Fonts-Code/Envy Code R PR7/Envy Code R Bold.ttf",
+		"/E/WorkSpace/RESOURCES/FONTS/Fonts-Code/Envy Code R PR7/Envy Code R.ttf",
+		"/E/WorkSpace/RESOURCES/FONTS/Fonts-Code/Envy Code R PR7/Envy Code R Italic.ttf",
+		"/E/SmartPhone/Devices/Tools/_adb_commands.txt"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"==========================================================================",
+			"passwor",
+			"2M",
+			"2048"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "FrintalJumpGame.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

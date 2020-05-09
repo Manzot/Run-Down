@@ -1,0 +1,3485 @@
+fileFormatVersion: 2
+guid: aafc8245819b84f4392f6959252fab91
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bw_taragonia_mix_trees_big_0
+    21300002: bw_taragonia_mix_trees_big_1
+    21300004: bw_taragonia_mix_trees_big_2
+    21300006: bw_taragonia_mix_trees_big_3
+    21300008: bw_taragonia_mix_trees_big_4
+    21300010: bw_taragonia_mix_trees_big_5
+    21300012: bw_taragonia_mix_trees_big_6
+    21300014: bw_taragonia_mix_trees_big_7
+    21300016: bw_taragonia_mix_trees_big_8
+    21300018: bw_taragonia_mix_trees_big_9
+    21300020: bw_taragonia_mix_trees_big_10
+    21300022: bw_taragonia_mix_trees_big_11
+    21300024: bw_taragonia_mix_trees_big_12
+    21300026: bw_taragonia_mix_trees_big_13
+    21300028: bw_taragonia_mix_trees_big_14
+    21300030: bw_taragonia_mix_trees_big_15
+    21300032: bw_taragonia_mix_trees_big_16
+    21300034: bw_taragonia_mix_trees_big_17
+    21300036: bw_taragonia_mix_trees_big_18
+    21300038: bw_taragonia_mix_trees_big_19
+    21300040: bw_taragonia_mix_trees_big_20
+    21300042: bw_taragonia_mix_trees_big_21
+    21300044: bw_taragonia_mix_trees_big_22
+    21300046: bw_taragonia_mix_trees_big_23
+    21300048: bw_taragonia_mix_trees_big_24
+    21300050: bw_taragonia_mix_trees_big_25
+    21300052: bw_taragonia_mix_trees_big_26
+    21300054: bw_taragonia_mix_trees_big_27
+    21300056: bw_taragonia_mix_trees_big_28
+    21300058: bw_taragonia_mix_trees_big_29
+    21300060: bw_taragonia_mix_trees_big_30
+    21300062: bw_taragonia_mix_trees_big_31
+    21300064: bw_taragonia_mix_trees_big_32
+    21300066: bw_taragonia_mix_trees_big_33
+    21300068: bw_taragonia_mix_trees_big_34
+    21300070: bw_taragonia_mix_trees_big_35
+    21300072: bw_taragonia_mix_trees_big_36
+    21300074: bw_taragonia_mix_trees_big_37
+    21300076: bw_taragonia_mix_trees_big_38
+    21300078: bw_taragonia_mix_trees_big_39
+    21300080: bw_taragonia_mix_trees_big_40
+    21300082: bw_taragonia_mix_trees_big_41
+    21300084: bw_taragonia_mix_trees_big_42
+    21300086: bw_taragonia_mix_trees_big_43
+    21300088: bw_taragonia_mix_trees_big_44
+    21300090: bw_taragonia_mix_trees_big_45
+    21300092: bw_taragonia_mix_trees_big_46
+    21300094: bw_taragonia_mix_trees_big_47
+    21300096: bw_taragonia_mix_trees_big_48
+    21300098: bw_taragonia_mix_trees_big_49
+    21300100: bw_taragonia_mix_trees_big_50
+    21300102: bw_taragonia_mix_trees_big_51
+    21300104: bw_taragonia_mix_trees_big_52
+    21300106: bw_taragonia_mix_trees_big_53
+    21300108: bw_taragonia_mix_trees_big_54
+    21300110: bw_taragonia_mix_trees_big_55
+    21300112: bw_taragonia_mix_trees_big_56
+    21300114: bw_taragonia_mix_trees_big_57
+    21300116: bw_taragonia_mix_trees_big_58
+    21300118: bw_taragonia_mix_trees_big_59
+    21300120: bw_taragonia_mix_trees_big_60
+    21300122: bw_taragonia_mix_trees_big_61
+    21300124: bw_taragonia_mix_trees_big_62
+    21300126: bw_taragonia_mix_trees_big_63
+    21300128: bw_taragonia_mix_trees_big_64
+    21300130: bw_taragonia_mix_trees_big_65
+    21300132: bw_taragonia_mix_trees_big_66
+    21300134: bw_taragonia_mix_trees_big_67
+    21300136: bw_taragonia_mix_trees_big_68
+    21300138: bw_taragonia_mix_trees_big_69
+    21300140: bw_taragonia_mix_trees_big_70
+    21300142: bw_taragonia_mix_trees_big_71
+    21300144: bw_taragonia_mix_trees_big_72
+    21300146: bw_taragonia_mix_trees_big_73
+    21300148: bw_taragonia_mix_trees_big_74
+    21300150: bw_taragonia_mix_trees_big_75
+    21300152: bw_taragonia_mix_trees_big_76
+    21300154: bw_taragonia_mix_trees_big_77
+    21300156: bw_taragonia_mix_trees_big_78
+    21300158: bw_taragonia_mix_trees_big_79
+    21300160: bw_taragonia_mix_trees_big_80
+    21300162: bw_taragonia_mix_trees_big_81
+    21300164: bw_taragonia_mix_trees_big_82
+    21300166: bw_taragonia_mix_trees_big_83
+    21300168: bw_taragonia_mix_trees_big_84
+    21300170: bw_taragonia_mix_trees_big_85
+    21300172: bw_taragonia_mix_trees_big_86
+    21300174: bw_taragonia_mix_trees_big_87
+    21300176: bw_taragonia_mix_trees_big_88
+    21300178: bw_taragonia_mix_trees_big_89
+    21300180: bw_taragonia_mix_trees_big_90
+    21300182: bw_taragonia_mix_trees_big_91
+    21300184: bw_taragonia_mix_trees_big_92
+    21300186: bw_taragonia_mix_trees_big_93
+    21300188: bw_taragonia_mix_trees_big_94
+    21300190: bw_taragonia_mix_trees_big_95
+    21300192: bw_taragonia_mix_trees_big_96
+    21300194: bw_taragonia_mix_trees_big_97
+    21300196: bw_taragonia_mix_trees_big_98
+    21300198: bw_taragonia_mix_trees_big_99
+    21300200: bw_taragonia_mix_trees_big_100
+    21300202: bw_taragonia_mix_trees_big_101
+    21300204: bw_taragonia_mix_trees_big_102
+    21300206: bw_taragonia_mix_trees_big_103
+    21300208: bw_taragonia_mix_trees_big_104
+    21300210: bw_taragonia_mix_trees_big_105
+    21300212: bw_taragonia_mix_trees_big_106
+    21300214: bw_taragonia_mix_trees_big_107
+    21300216: bw_taragonia_mix_trees_big_108
+    21300218: bw_taragonia_mix_trees_big_109
+    21300220: bw_taragonia_mix_trees_big_110
+    21300222: bw_taragonia_mix_trees_big_111
+    21300224: bw_taragonia_mix_trees_big_112
+    21300226: bw_taragonia_mix_trees_big_113
+    21300228: bw_taragonia_mix_trees_big_114
+    21300230: bw_taragonia_mix_trees_big_115
+    21300232: bw_taragonia_mix_trees_big_116
+    21300234: bw_taragonia_mix_trees_big_117
+    21300236: bw_taragonia_mix_trees_big_118
+    21300238: bw_taragonia_mix_trees_big_119
+    21300240: bw_taragonia_mix_trees_big_120
+    21300242: bw_taragonia_mix_trees_big_121
+    21300244: bw_taragonia_mix_trees_big_122
+    21300246: bw_taragonia_mix_trees_big_123
+    21300248: bw_taragonia_mix_trees_big_124
+    21300250: bw_taragonia_mix_trees_big_125
+    21300252: bw_taragonia_mix_trees_big_126
+    21300254: bw_taragonia_mix_trees_big_127
+    21300256: bw_taragonia_mix_trees_big_128
+    21300258: bw_taragonia_mix_trees_big_129
+    21300260: bw_taragonia_mix_trees_big_130
+    21300262: bw_taragonia_mix_trees_big_131
+    21300264: bw_taragonia_mix_trees_big_132
+    21300266: bw_taragonia_mix_trees_big_133
+    21300268: bw_taragonia_mix_trees_big_134
+    21300270: bw_taragonia_mix_trees_big_135
+    21300272: bw_taragonia_mix_trees_big_136
+    21300274: bw_taragonia_mix_trees_big_137
+    21300276: bw_taragonia_mix_trees_big_138
+    21300278: bw_taragonia_mix_trees_big_139
+    21300280: bw_taragonia_mix_trees_big_140
+    21300282: bw_taragonia_mix_trees_big_141
+    21300284: bw_taragonia_mix_trees_big_142
+    21300286: bw_taragonia_mix_trees_big_143
+    21300288: bw_taragonia_mix_trees_big_144
+    21300290: bw_taragonia_mix_trees_big_145
+    21300292: bw_taragonia_mix_trees_big_146
+    21300294: bw_taragonia_mix_trees_big_147
+    21300296: bw_taragonia_mix_trees_big_148
+    21300298: bw_taragonia_mix_trees_big_149
+    21300300: bw_taragonia_mix_trees_big_150
+    21300302: bw_taragonia_mix_trees_big_151
+    21300304: bw_taragonia_mix_trees_big_152
+    21300306: bw_taragonia_mix_trees_big_153
+    21300308: bw_taragonia_mix_trees_big_154
+    21300310: bw_taragonia_mix_trees_big_155
+    21300312: bw_taragonia_mix_trees_big_156
+    21300314: bw_taragonia_mix_trees_big_157
+    21300316: bw_taragonia_mix_trees_big_158
+    21300318: bw_taragonia_mix_trees_big_159
+    21300320: bw_taragonia_mix_trees_big_160
+    21300322: bw_taragonia_mix_trees_big_161
+    21300324: bw_taragonia_mix_trees_big_162
+    21300326: bw_taragonia_mix_trees_big_163
+    21300328: bw_taragonia_mix_trees_big_164
+    21300330: bw_taragonia_mix_trees_big_165
+    21300332: bw_taragonia_mix_trees_big_166
+    21300334: bw_taragonia_mix_trees_big_167
+    21300336: bw_taragonia_mix_trees_big_168
+    21300338: bw_taragonia_mix_trees_big_169
+    21300340: bw_taragonia_mix_trees_big_170
+    21300342: bw_taragonia_mix_trees_big_171
+    21300344: bw_taragonia_mix_trees_big_172
+    21300346: bw_taragonia_mix_trees_big_173
+    21300348: bw_taragonia_mix_trees_big_174
+    21300350: bw_taragonia_mix_trees_big_175
+    21300352: bw_taragonia_mix_trees_big_176
+    21300354: bw_taragonia_mix_trees_big_177
+    21300356: bw_taragonia_mix_trees_big_178
+    21300358: bw_taragonia_mix_trees_big_179
+    21300360: bw_taragonia_mix_trees_big_180
+    21300362: bw_taragonia_mix_trees_big_181
+    21300364: bw_taragonia_mix_trees_big_182
+    21300366: bw_taragonia_mix_trees_big_183
+    21300368: bw_taragonia_mix_trees_big_184
+    21300370: bw_taragonia_mix_trees_big_185
+    21300372: bw_taragonia_mix_trees_big_186
+    21300374: bw_taragonia_mix_trees_big_187
+    21300376: bw_taragonia_mix_trees_big_188
+    21300378: bw_taragonia_mix_trees_big_189
+    21300380: bw_taragonia_mix_trees_big_190
+    21300382: bw_taragonia_mix_trees_big_191
+    21300384: bw_taragonia_mix_trees_big_192
+    21300386: bw_taragonia_mix_trees_big_193
+    21300388: bw_taragonia_mix_trees_big_194
+    21300390: bw_taragonia_mix_trees_big_195
+    21300392: bw_taragonia_mix_trees_big_196
+    21300394: bw_taragonia_mix_trees_big_197
+    21300396: bw_taragonia_mix_trees_big_198
+    21300398: bw_taragonia_mix_trees_big_199
+    21300400: bw_taragonia_mix_trees_big_200
+    21300402: bw_taragonia_mix_trees_big_201
+    21300404: bw_taragonia_mix_trees_big_202
+    21300406: bw_taragonia_mix_trees_big_203
+    21300408: bw_taragonia_mix_trees_big_204
+    21300410: bw_taragonia_mix_trees_big_205
+    21300412: bw_taragonia_mix_trees_big_206
+    21300414: bw_taragonia_mix_trees_big_207
+    21300416: bw_taragonia_mix_trees_big_208
+    21300418: bw_taragonia_mix_trees_big_209
+    21300420: bw_taragonia_mix_trees_big_210
+    21300422: bw_taragonia_mix_trees_big_211
+    21300424: bw_taragonia_mix_trees_big_212
+    21300426: bw_taragonia_mix_trees_big_213
+    21300428: bw_taragonia_mix_trees_big_214
+    21300430: bw_taragonia_mix_trees_big_215
+    21300432: bw_taragonia_mix_trees_big_216
+    21300434: bw_taragonia_mix_trees_big_217
+    21300436: bw_taragonia_mix_trees_big_218
+    21300438: bw_taragonia_mix_trees_big_219
+    21300440: bw_taragonia_mix_trees_big_220
+    21300442: bw_taragonia_mix_trees_big_221
+    21300444: bw_taragonia_mix_trees_big_222
+    21300446: bw_taragonia_mix_trees_big_223
+    21300448: bw_taragonia_mix_trees_big_224
+    21300450: bw_taragonia_mix_trees_big_225
+    21300452: bw_taragonia_mix_trees_big_226
+    21300454: bw_taragonia_mix_trees_big_227
+    21300456: bw_taragonia_mix_trees_big_228
+    21300458: bw_taragonia_mix_trees_big_229
+    21300460: bw_taragonia_mix_trees_big_230
+    21300462: bw_taragonia_mix_trees_big_231
+    21300464: bw_taragonia_mix_trees_big_232
+    21300466: bw_taragonia_mix_trees_big_233
+    21300468: bw_taragonia_mix_trees_big_234
+    21300470: bw_taragonia_mix_trees_big_235
+    21300472: bw_taragonia_mix_trees_big_236
+    21300474: bw_taragonia_mix_trees_big_237
+    21300476: bw_taragonia_mix_trees_big_238
+    21300478: bw_taragonia_mix_trees_big_239
+    21300480: bw_taragonia_mix_trees_big_240
+    21300482: bw_taragonia_mix_trees_big_241
+    21300484: bw_taragonia_mix_trees_big_242
+    21300486: bw_taragonia_mix_trees_big_243
+    21300488: bw_taragonia_mix_trees_big_244
+    21300490: bw_taragonia_mix_trees_big_245
+    21300492: bw_taragonia_mix_trees_big_246
+    21300494: bw_taragonia_mix_trees_big_247
+    21300496: bw_taragonia_mix_trees_big_248
+    21300498: bw_taragonia_mix_trees_big_249
+    21300500: bw_taragonia_mix_trees_big_250
+    21300502: bw_taragonia_mix_trees_big_251
+    21300504: bw_taragonia_mix_trees_big_252
+    21300506: bw_taragonia_mix_trees_big_253
+    21300508: bw_taragonia_mix_trees_big_254
+    21300510: bw_taragonia_mix_trees_big_255
+    21300512: bw_taragonia_mix_trees_big_256
+    21300514: bw_taragonia_mix_trees_big_257
+    21300516: bw_taragonia_mix_trees_big_258
+    21300518: bw_taragonia_mix_trees_big_259
+    21300520: bw_taragonia_mix_trees_big_260
+    21300522: bw_taragonia_mix_trees_big_261
+    21300524: bw_taragonia_mix_trees_big_262
+    21300526: bw_taragonia_mix_trees_big_263
+    21300528: bw_taragonia_mix_trees_big_264
+    21300530: bw_taragonia_mix_trees_big_265
+    21300532: bw_taragonia_mix_trees_big_266
+    21300534: bw_taragonia_mix_trees_big_267
+    21300536: bw_taragonia_mix_trees_big_268
+    21300538: bw_taragonia_mix_trees_big_269
+    21300540: bw_taragonia_mix_trees_big_270
+    21300542: bw_taragonia_mix_trees_big_271
+    21300544: bw_taragonia_mix_trees_big_272
+    21300546: bw_taragonia_mix_trees_big_273
+    21300548: bw_taragonia_mix_trees_big_274
+    21300550: bw_taragonia_mix_trees_big_275
+    21300552: bw_taragonia_mix_trees_big_276
+    21300554: bw_taragonia_mix_trees_big_277
+    21300556: bw_taragonia_mix_trees_big_278
+    21300558: bw_taragonia_mix_trees_big_279
+    21300560: bw_taragonia_mix_trees_big_280
+    21300562: bw_taragonia_mix_trees_big_281
+    21300564: bw_taragonia_mix_trees_big_282
+    21300566: bw_taragonia_mix_trees_big_283
+    21300568: bw_taragonia_mix_trees_big_284
+    21300570: bw_taragonia_mix_trees_big_285
+    21300572: bw_taragonia_mix_trees_big_286
+    21300574: bw_taragonia_mix_trees_big_287
+    21300576: bw_taragonia_mix_trees_big_288
+    21300578: bw_taragonia_mix_trees_big_289
+    21300580: bw_taragonia_mix_trees_big_290
+    21300582: bw_taragonia_mix_trees_big_291
+    21300584: bw_taragonia_mix_trees_big_292
+    21300586: bw_taragonia_mix_trees_big_293
+    21300588: bw_taragonia_mix_trees_big_294
+    21300590: bw_taragonia_mix_trees_big_295
+    21300592: bw_taragonia_mix_trees_big_296
+    21300594: bw_taragonia_mix_trees_big_297
+    21300596: bw_taragonia_mix_trees_big_298
+    21300598: bw_taragonia_mix_trees_big_299
+    21300600: bw_taragonia_mix_trees_big_300
+    21300602: bw_taragonia_mix_trees_big_301
+    21300604: bw_taragonia_mix_trees_big_302
+    21300606: bw_taragonia_mix_trees_big_303
+    21300608: bw_taragonia_mix_trees_big_304
+    21300610: bw_taragonia_mix_trees_big_305
+    21300612: bw_taragonia_mix_trees_big_306
+    21300614: bw_taragonia_mix_trees_big_307
+    21300616: bw_taragonia_mix_trees_big_308
+    21300618: bw_taragonia_mix_trees_big_309
+    21300620: bw_taragonia_mix_trees_big_310
+    21300622: bw_taragonia_mix_trees_big_311
+    21300624: bw_taragonia_mix_trees_big_312
+    21300626: bw_taragonia_mix_trees_big_313
+    21300628: bw_taragonia_mix_trees_big_314
+    21300630: bw_taragonia_mix_trees_big_315
+    21300632: bw_taragonia_mix_trees_big_316
+    21300634: bw_taragonia_mix_trees_big_317
+    21300636: bw_taragonia_mix_trees_big_318
+    21300638: bw_taragonia_mix_trees_big_319
+    21300640: bw_taragonia_mix_trees_big_320
+    21300642: bw_taragonia_mix_trees_big_321
+    21300644: bw_taragonia_mix_trees_big_322
+    21300646: bw_taragonia_mix_trees_big_323
+    21300648: bw_taragonia_mix_trees_big_324
+    21300650: bw_taragonia_mix_trees_big_325
+    21300652: bw_taragonia_mix_trees_big_326
+    21300654: bw_taragonia_mix_trees_big_327
+    21300656: bw_taragonia_mix_trees_big_328
+    21300658: bw_taragonia_mix_trees_big_329
+    21300660: bw_taragonia_mix_trees_big_330
+    21300662: bw_taragonia_mix_trees_big_331
+    21300664: bw_taragonia_mix_trees_big_332
+    21300666: bw_taragonia_mix_trees_big_333
+    21300668: bw_taragonia_mix_trees_big_334
+    21300670: bw_taragonia_mix_trees_big_335
+    21300672: bw_taragonia_mix_trees_big_336
+    21300674: bw_taragonia_mix_trees_big_337
+    21300676: bw_taragonia_mix_trees_big_338
+    21300678: bw_taragonia_mix_trees_big_339
+    21300680: bw_taragonia_mix_trees_big_340
+    21300682: bw_taragonia_mix_trees_big_341
+    21300684: bw_taragonia_mix_trees_big_342
+    21300686: bw_taragonia_mix_trees_big_343
+    21300688: bw_taragonia_mix_trees_big_344
+    21300690: bw_taragonia_mix_trees_big_345
+    21300692: bw_taragonia_mix_trees_big_346
+    21300694: bw_taragonia_mix_trees_big_347
+    21300696: bw_taragonia_mix_trees_big_348
+    21300698: bw_taragonia_mix_trees_big_349
+    21300700: bw_taragonia_mix_trees_big_350
+    21300702: bw_taragonia_mix_trees_big_351
+    21300704: bw_taragonia_mix_trees_big_352
+    21300706: bw_taragonia_mix_trees_big_353
+    21300708: bw_taragonia_mix_trees_big_354
+    21300710: bw_taragonia_mix_trees_big_355
+    21300712: bw_taragonia_mix_trees_big_356
+    21300714: bw_taragonia_mix_trees_big_357
+    21300716: bw_taragonia_mix_trees_big_358
+    21300718: bw_taragonia_mix_trees_big_359
+    21300720: bw_taragonia_mix_trees_big_360
+    21300722: bw_taragonia_mix_trees_big_361
+    21300724: bw_taragonia_mix_trees_big_362
+    21300726: bw_taragonia_mix_trees_big_363
+    21300728: bw_taragonia_mix_trees_big_364
+    21300730: bw_taragonia_mix_trees_big_365
+    21300732: bw_taragonia_mix_trees_big_366
+    21300734: bw_taragonia_mix_trees_big_367
+    21300736: bw_taragonia_mix_trees_big_368
+    21300738: bw_taragonia_mix_trees_big_369
+    21300740: bw_taragonia_mix_trees_big_370
+    21300742: bw_taragonia_mix_trees_big_371
+    21300744: bw_taragonia_mix_trees_big_372
+    21300746: bw_taragonia_mix_trees_big_373
+    21300748: bw_taragonia_mix_trees_big_374
+    21300750: bw_taragonia_mix_trees_big_375
+    21300752: bw_taragonia_mix_trees_big_376
+    21300754: bw_taragonia_mix_trees_big_377
+    21300756: bw_taragonia_mix_trees_big_378
+    21300758: bw_taragonia_mix_trees_big_379
+    21300760: bw_taragonia_mix_trees_big_380
+    21300762: bw_taragonia_mix_trees_big_381
+    21300764: bw_taragonia_mix_trees_big_382
+    21300766: bw_taragonia_mix_trees_big_383
+    21300768: bw_taragonia_mix_trees_big_384
+    21300770: bw_taragonia_mix_trees_big_385
+    21300772: bw_taragonia_mix_trees_big_386
+    21300774: bw_taragonia_mix_trees_big_387
+    21300776: bw_taragonia_mix_trees_big_388
+    21300778: bw_taragonia_mix_trees_big_389
+    21300780: bw_taragonia_mix_trees_big_390
+    21300782: bw_taragonia_mix_trees_big_391
+    21300784: bw_taragonia_mix_trees_big_392
+    21300786: bw_taragonia_mix_trees_big_393
+    21300788: bw_taragonia_mix_trees_big_394
+    21300790: bw_taragonia_mix_trees_big_395
+    21300792: bw_taragonia_mix_trees_big_396
+    21300794: bw_taragonia_mix_trees_big_397
+    21300796: bw_taragonia_mix_trees_big_398
+    21300798: bw_taragonia_mix_trees_big_399
+    21300800: bw_taragonia_mix_trees_big_400
+    21300802: bw_taragonia_mix_trees_big_401
+    21300804: bw_taragonia_mix_trees_big_402
+    21300806: bw_taragonia_mix_trees_big_403
+    21300808: bw_taragonia_mix_trees_big_404
+    21300810: bw_taragonia_mix_trees_big_405
+    21300812: bw_taragonia_mix_trees_big_406
+    21300814: bw_taragonia_mix_trees_big_407
+    21300816: bw_taragonia_mix_trees_big_408
+    21300818: bw_taragonia_mix_trees_big_409
+    21300820: bw_taragonia_mix_trees_big_410
+    21300822: bw_taragonia_mix_trees_big_411
+    21300824: bw_taragonia_mix_trees_big_412
+    21300826: bw_taragonia_mix_trees_big_413
+    21300828: bw_taragonia_mix_trees_big_414
+    21300830: bw_taragonia_mix_trees_big_415
+    21300832: bw_taragonia_mix_trees_big_416
+    21300834: bw_taragonia_mix_trees_big_417
+    21300836: bw_taragonia_mix_trees_big_418
+    21300838: bw_taragonia_mix_trees_big_419
+    21300840: bw_taragonia_mix_trees_big_420
+    21300842: bw_taragonia_mix_trees_big_421
+    21300844: bw_taragonia_mix_trees_big_422
+    21300846: bw_taragonia_mix_trees_big_423
+    21300848: bw_taragonia_mix_trees_big_424
+    21300850: bw_taragonia_mix_trees_big_425
+    21300852: bw_taragonia_mix_trees_big_426
+    21300854: bw_taragonia_mix_trees_big_427
+    21300856: bw_taragonia_mix_trees_big_428
+    21300858: bw_taragonia_mix_trees_big_429
+    21300860: bw_taragonia_mix_trees_big_430
+    21300862: bw_taragonia_mix_trees_big_431
+    21300864: bw_taragonia_mix_trees_big_432
+    21300866: bw_taragonia_mix_trees_big_433
+    21300868: bw_taragonia_mix_trees_big_434
+    21300870: bw_taragonia_mix_trees_big_435
+    21300872: bw_taragonia_mix_trees_big_436
+    21300874: bw_taragonia_mix_trees_big_437
+    21300876: bw_taragonia_mix_trees_big_438
+    21300878: bw_taragonia_mix_trees_big_439
+    21300880: bw_taragonia_mix_trees_big_440
+    21300882: bw_taragonia_mix_trees_big_441
+    21300884: bw_taragonia_mix_trees_big_442
+    21300886: bw_taragonia_mix_trees_big_443
+    21300888: bw_taragonia_mix_trees_big_444
+    21300890: bw_taragonia_mix_trees_big_445
+    21300892: bw_taragonia_mix_trees_big_446
+    21300894: bw_taragonia_mix_trees_big_447
+    21300896: bw_taragonia_mix_trees_big_448
+    21300898: bw_taragonia_mix_trees_big_449
+    21300900: bw_taragonia_mix_trees_big_450
+    21300902: bw_taragonia_mix_trees_big_451
+    21300904: bw_taragonia_mix_trees_big_452
+    21300906: bw_taragonia_mix_trees_big_453
+    21300908: bw_taragonia_mix_trees_big_454
+    21300910: bw_taragonia_mix_trees_big_455
+    21300912: bw_taragonia_mix_trees_big_456
+    21300914: bw_taragonia_mix_trees_big_457
+    21300916: bw_taragonia_mix_trees_big_458
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 529
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e125b3c04c75c04db84d957bacea6b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 529
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e7cb1df508354a86b95811be36d80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 529
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e073e445589d37f4bbfb11d7eb5d8449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 529
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f347254447c43049b746fc75b37ff22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 529
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8dff1c29bad604c9c55081c8e8f6bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 529
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e336be6eaace6984c9904e865c603774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 529
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78483d20f5d4948479fe8da4a9376f73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 530
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffbe89e6f8440c46b3899a7b1e78834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 530
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8f2c2719f0e084eb3b6c90050afec1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 545
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16faeff36008a743b70d0d3d8a01d02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 545
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb4f65f6ef9e3c44bdd79982f847ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_11
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 545
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620c464ef0ed0604db550e37d9910273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 545
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9cc649d2af304478ecfc4dcd8940d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_13
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 545
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1395e830ac14549ae4aa1b011d794b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_14
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 545
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b215f3fdd2c4c9249a80c50259371f32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 545
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b074d73c6b15dcf46b55c446b58b9557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_16
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 545
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7052aa80306d091488d33bc80e3fd698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_17
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 545
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076e9cd40fdb9514aae9e69c3aba4bdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 465
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8897b80285662dd4eaa775f78217e0f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 464
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1349348071fb094a8658b04b256c848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 465
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4894b0791ea3e6245ba318526576c555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 464
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9098f7bf29311924eb93e9e6dfaf5387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 465
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f869ed95dcf046ab32aeb8f69c596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 465
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e050a125bbeae46872c5d9bb489c59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_24
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 465
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67599e27acda2114fa07089033b052cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_25
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 464
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3234065b5534443b0c90866db020a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_26
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 464
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a08b3a442e1d46821ac6cc49e57f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857fecdd3e639704aa65d477d099ce45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_28
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 480
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6405d699511b0b7478abfe40d579bf5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_29
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 480
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc72278d6d39a4d8489f418221a35c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 480
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a94b8925486e5c469130c8fc7289daa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_31
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 480
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5581b82362db982419c56689d00dd4a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_32
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 480
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ff1ed4aad754748a332421afb8424a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_33
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 480
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8aa9be499351545b9e19481243e458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_34
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 480
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284688263981b384bba68b2dd6e43c72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_35
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 513
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e678382119ca41b8feaf6303436cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_36
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 480
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f6c236021de44c851059f6df13f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_37
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 464
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78993fae185038429ffd4643bfc7350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_38
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 464
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a45483149175a4b96c922e5c9d38e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_39
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 464
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cec15cb1a51ff4f99452d23e8d1e67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_40
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 464
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0630a48b89d4f749ba022d7276a007b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_41
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 464
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e91478630a9b5847b52bb6c5cee8de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_42
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 464
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7911d9e4a7a968844bc3ea662ddff734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_43
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 464
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fc9545978e7a54cb2ecd2029ed5bcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_44
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 464
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6233d81dab16a4c4ea2c75a47ea274d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_45
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 464
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaf04bc2300f604f84a5d8f34998646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 352
+        width: 31
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff0f4ced48756f40a06f067785bc396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 352
+        width: 31
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9a2ca783b8c094e98a147fa484aa35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41230d7b04e054486444dbe5bfccda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 352
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd6c3c4c73a34146abdfb8c18c527e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_50
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 352
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210fe24bcf0f9b54bb2555ea60cf2f83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 352
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ddff6a4dc5d7142aade5790b457c50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 352
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8ddd63f07edda4cbd7674b74c81995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_53
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 352
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cafbab26b32d9c448329c8a5ac081f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_54
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 352
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f66d3df87558544aa322bf1cfb50954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 401
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74657d0504af3848843e0c9de6165a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_56
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 401
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c7478db347664ba1cd9b3520868c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_57
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 401
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56db3d97a24fdef4d91ab2fd15db20d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_58
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 401
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767ef9a38bf60b42a0a7fc326b2c571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_59
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 401
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651adfa7c40e0fa4698727d79d1a9c69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_60
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 401
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed831ac466d26247a6f4d9fafba2cd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_61
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 401
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8e554f5b020e2468e2bdb4faea04ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_62
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 401
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56789947967a2844f9fe62afa1e1374f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_63
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 401
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b26faeae43acd4e87be21bc033075f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_64
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df436aefcdc2b1540935a1f2895681b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_65
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 336
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d699fe641badedd4283a306272f72ca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_66
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 336
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146dbba7f4a947246a77b89b5ddf16ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_67
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 336
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c8f6aacc21e50429fb74e3c6ae3bc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_68
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 336
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18efa7f82f5572f40bd10c31379feb4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_69
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 336
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0abca993073ac4e9d8875daa25209a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_70
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 336
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cac5acd63f12f04baac7e0c259cdb1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_71
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 336
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662fbc68fc414164f97c2d93c9a9b5c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_72
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 336
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ec3ccc4d585f64c806ddf022e4e8d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 273
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7500a640efb704f4bb5d67c6d5ec3cf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 273
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7611bf498cfd75948a62cfa9181070f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 273
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1bc3e16c092a14f90bdb6c7cc5be37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 273
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f280c4d2370de4f94ab86f16664d5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_77
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 273
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e54f40c8b6a5a419aaf95e6fc3ec1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_78
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 273
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb76bbca4461c34b8c16b4310fac71a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 273
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6476a42fec656942931f6b29e2fd7e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_80
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 273
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b20141568044a14f9d00ab9b2627fa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_81
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 273
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954caba7fd42cf84382785ffd75dfed1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_82
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba85cae53140db04f8064b26919f4994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_83
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570e937f0a93df444ad7892fbe30217f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_84
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f3e571e5a1cc749937e91848c9d5a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_85
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951db98c43a76374a970d8d9caef2a0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_86
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9101dbe03a973c4782f83a44f852333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_87
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d73a7b6d7383646bfa7eba5eaa21f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_88
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3bd5b2c962b9d43ab1575782aa38fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_89
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac1933c83bf02c44aae6804afff9613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_90
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fb4ca12241a86488b0cf71f45e68f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_91
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 209
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f90c71257011445b7b910ef3f93406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_92
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 209
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58ec7cc855583d4480fd32c7a7bdcfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_93
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 209
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a537f1e3ea1090488c00c4a0f43c911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_94
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 209
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8d4fa9e4db0f74499d150a141ac42a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_95
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 209
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70b36a1f5013c14297e26bd27d57360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_96
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 209
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6846e1986d7c6bd458ae3ec4a8a0b471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_97
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 209
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2e8cc581ee25a48a3bd2f3b5893d8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_98
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 209
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787909afeb3b63f4e8fa3dbc722aeab6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_99
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 209
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d882812303da4a9429ca27b40ad0953e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_100
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 256
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6bd8fae905d324bbad959eaf866503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_101
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 257
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63688966dacec6d418f0db2638face04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_102
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 257
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a245ba20623c90489b6833f4c4fab66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_103
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 258
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb71c9e2a9123254ba30f95ad42dcd6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_104
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 259
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517ef21d9c644484cbbe6a5a2873bade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_105
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 259
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c968e573fc7e641b323c49a75c5a45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_106
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 258
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed26b32b6a58d8449e92a130bf124b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_107
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 259
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7842f8ea459e24b97e1c899c461821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_108
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 259
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec623237cffaaf4d803270aeb54bbf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cc8d549a2b0ec4290571837b862c90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 224
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a43abe06d52994db77bd5a292fdc78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_111
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 226
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6793827a3b1124380e54c6306351a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_112
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 226
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3645bbcb98c416f468b6244e3cf95ff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_113
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 226
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2c89084fafe5049a02ff1efb0a3a3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_114
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 226
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee0e2392b230d438151a96abc80552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_115
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38374f5e939e2b4c9928ee38e1a4268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_116
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9dd9fe68195b844b4a147968537592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_117
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 162
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fcef6b1b4cf3b4ea29ee6472270ce4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_118
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 163
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4be33127d42e94494df8f5f6ec99e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_119
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 163
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d082d82ab193e7141a744a2a261501b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_120
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 162
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319bad427c918c8418e6189eb1ec1f01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_121
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 163
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599a1cd65173b174ea9416544f24bd26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_122
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 163
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d523f7d66cbe0340b6ecbd71ee3b1bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_123
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 162
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1081547da589d2744a0f7a8ac37f5125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_124
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 163
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f94917ca3b55c34285bac73f787ffbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_125
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 163
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bab56b2b29d0fa45829bd7060f2bbc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_126
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77698b14a7fe5584ca6d76c4843ed533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff07fb81b64fdd448bceacc0ec79764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_128
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 81
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aad29359bc86f4291472a6937cbac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_129
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 81
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c4145384cb9bb4a98d41af635ff5c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_130
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 81
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fba35c75da170a46bb54e6cf62c91b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 81
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a12b375b209154ca61274d388a9666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_132
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 81
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32acbd6f7f2ffa40883422708eb55ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_133
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 81
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6a9381508fae14ebd79de0e4e960e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_134
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 81
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f7f7400ea5cfc4db1320c475ca15a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_135
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 130
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819bd403702afe4eaf279f2e9e77c6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_136
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 130
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae9719d7dd1d5a43ae186f17fa47ed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_137
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 130
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127058eace04ce47b56feeae8c1a1de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_138
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 130
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b17960b6a22741bb25dde8ed966dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_139
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 130
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5069151458a0e41902beeb654e2fa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_140
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 130
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bb064f99840964eae74140027bbf03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ef2e4453c45ef42aa22c14961973c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_142
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aff6e0cdf65cb347b587a60d1d31701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_143
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc1dd7546b4be74d805e98b46bb49eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_144
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 65
+        width: 128
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f856edd49c9848ae40c2bd4469e2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bw_taragonia_mix_trees_big_145
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 32
+        width: 128
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fa87863e103624db810af281bccb3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 670cce37a9cac894b933287a2c5de880
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

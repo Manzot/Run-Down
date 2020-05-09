@@ -1,0 +1,4105 @@
+fileFormatVersion: 2
+guid: d3440898c998d164c993ea7b3d18c8b0
+timeCreated: 1519717595
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: triple-threat-homes_0
+    21300002: triple-threat-homes_1
+    21300004: triple-threat-homes_2
+    21300006: triple-threat-homes_3
+    21300008: triple-threat-homes_4
+    21300010: triple-threat-homes_5
+    21300012: triple-threat-homes_6
+    21300014: triple-threat-homes_7
+    21300016: triple-threat-homes_8
+    21300018: triple-threat-homes_9
+    21300020: triple-threat-homes_10
+    21300022: triple-threat-homes_11
+    21300024: triple-threat-homes_12
+    21300026: triple-threat-homes_13
+    21300028: triple-threat-homes_14
+    21300030: triple-threat-homes_15
+    21300032: triple-threat-homes_16
+    21300034: triple-threat-homes_17
+    21300036: triple-threat-homes_18
+    21300038: triple-threat-homes_19
+    21300040: triple-threat-homes_20
+    21300042: triple-threat-homes_21
+    21300044: triple-threat-homes_22
+    21300046: triple-threat-homes_23
+    21300048: triple-threat-homes_24
+    21300050: triple-threat-homes_25
+    21300052: triple-threat-homes_26
+    21300054: triple-threat-homes_27
+    21300056: triple-threat-homes_28
+    21300058: triple-threat-homes_29
+    21300060: triple-threat-homes_30
+    21300062: triple-threat-homes_31
+    21300064: triple-threat-homes_32
+    21300066: triple-threat-homes_33
+    21300068: triple-threat-homes_34
+    21300070: triple-threat-homes_35
+    21300072: triple-threat-homes_36
+    21300074: triple-threat-homes_37
+    21300076: triple-threat-homes_38
+    21300078: triple-threat-homes_39
+    21300080: triple-threat-homes_40
+    21300082: triple-threat-homes_41
+    21300084: triple-threat-homes_42
+    21300086: triple-threat-homes_43
+    21300088: triple-threat-homes_44
+    21300090: triple-threat-homes_45
+    21300092: triple-threat-homes_46
+    21300094: triple-threat-homes_47
+    21300096: triple-threat-homes_48
+    21300098: triple-threat-homes_49
+    21300100: triple-threat-homes_50
+    21300102: triple-threat-homes_51
+    21300104: triple-threat-homes_52
+    21300106: triple-threat-homes_53
+    21300108: triple-threat-homes_54
+    21300110: triple-threat-homes_55
+    21300112: triple-threat-homes_56
+    21300114: triple-threat-homes_57
+    21300116: triple-threat-homes_58
+    21300118: triple-threat-homes_59
+    21300120: triple-threat-homes_60
+    21300122: triple-threat-homes_61
+    21300124: triple-threat-homes_62
+    21300126: triple-threat-homes_63
+    21300128: triple-threat-homes_64
+    21300130: triple-threat-homes_65
+    21300132: triple-threat-homes_66
+    21300134: triple-threat-homes_67
+    21300136: triple-threat-homes_68
+    21300138: triple-threat-homes_69
+    21300140: triple-threat-homes_70
+    21300142: triple-threat-homes_71
+    21300144: triple-threat-homes_72
+    21300146: triple-threat-homes_73
+    21300148: triple-threat-homes_74
+    21300150: triple-threat-homes_75
+    21300152: triple-threat-homes_76
+    21300154: triple-threat-homes_77
+    21300156: triple-threat-homes_78
+    21300158: triple-threat-homes_79
+    21300160: triple-threat-homes_80
+    21300162: triple-threat-homes_81
+    21300164: triple-threat-homes_82
+    21300166: triple-threat-homes_83
+    21300168: triple-threat-homes_84
+    21300170: triple-threat-homes_85
+    21300172: triple-threat-homes_86
+    21300174: triple-threat-homes_87
+    21300176: triple-threat-homes_88
+    21300178: triple-threat-homes_89
+    21300180: triple-threat-homes_90
+    21300182: triple-threat-homes_91
+    21300184: triple-threat-homes_92
+    21300186: triple-threat-homes_93
+    21300188: triple-threat-homes_94
+    21300190: triple-threat-homes_95
+    21300192: triple-threat-homes_96
+    21300194: triple-threat-homes_97
+    21300196: triple-threat-homes_98
+    21300198: triple-threat-homes_99
+    21300200: triple-threat-homes_100
+    21300202: triple-threat-homes_101
+    21300204: triple-threat-homes_102
+    21300206: triple-threat-homes_103
+    21300208: triple-threat-homes_104
+    21300210: triple-threat-homes_105
+    21300212: triple-threat-homes_106
+    21300214: triple-threat-homes_107
+    21300216: triple-threat-homes_108
+    21300218: triple-threat-homes_109
+    21300220: triple-threat-homes_110
+    21300222: triple-threat-homes_111
+    21300224: triple-threat-homes_112
+    21300226: triple-threat-homes_113
+    21300228: triple-threat-homes_114
+    21300230: triple-threat-homes_115
+    21300232: triple-threat-homes_116
+    21300234: triple-threat-homes_117
+    21300236: triple-threat-homes_118
+    21300238: triple-threat-homes_119
+    21300240: triple-threat-homes_120
+    21300242: triple-threat-homes_121
+    21300244: triple-threat-homes_122
+    21300246: triple-threat-homes_123
+    21300248: triple-threat-homes_124
+    21300250: triple-threat-homes_125
+    21300252: triple-threat-homes_126
+    21300254: triple-threat-homes_127
+    21300256: triple-threat-homes_128
+    21300258: triple-threat-homes_129
+    21300260: triple-threat-homes_130
+    21300262: triple-threat-homes_131
+    21300264: triple-threat-homes_132
+    21300266: triple-threat-homes_133
+    21300268: triple-threat-homes_134
+    21300270: triple-threat-homes_135
+    21300272: triple-threat-homes_136
+    21300274: triple-threat-homes_137
+    21300276: triple-threat-homes_138
+    21300278: triple-threat-homes_139
+    21300280: triple-threat-homes_140
+    21300282: triple-threat-homes_141
+    21300284: triple-threat-homes_142
+    21300286: triple-threat-homes_143
+    21300288: triple-threat-homes_144
+    21300290: triple-threat-homes_145
+    21300292: triple-threat-homes_146
+    21300294: triple-threat-homes_147
+    21300296: triple-threat-homes_148
+    21300298: triple-threat-homes_149
+    21300300: triple-threat-homes_150
+    21300302: triple-threat-homes_151
+    21300304: triple-threat-homes_152
+    21300306: triple-threat-homes_153
+    21300308: triple-threat-homes_154
+    21300310: triple-threat-homes_155
+    21300312: triple-threat-homes_156
+    21300314: triple-threat-homes_157
+    21300316: triple-threat-homes_158
+    21300318: triple-threat-homes_159
+    21300320: triple-threat-homes_160
+    21300322: triple-threat-homes_161
+    21300324: triple-threat-homes_162
+    21300326: triple-threat-homes_163
+    21300328: triple-threat-homes_164
+    21300330: triple-threat-homes_165
+    21300332: triple-threat-homes_166
+    21300334: triple-threat-homes_167
+    21300336: triple-threat-homes_168
+    21300338: triple-threat-homes_169
+    21300340: triple-threat-homes_170
+    21300342: triple-threat-homes_171
+    21300344: triple-threat-homes_172
+    21300346: triple-threat-homes_173
+    21300348: triple-threat-homes_174
+    21300350: triple-threat-homes_175
+    21300352: triple-threat-homes_176
+    21300354: triple-threat-homes_177
+    21300356: triple-threat-homes_178
+    21300358: triple-threat-homes_179
+    21300360: triple-threat-homes_180
+    21300362: triple-threat-homes_181
+    21300364: triple-threat-homes_182
+    21300366: triple-threat-homes_183
+    21300368: triple-threat-homes_184
+    21300370: triple-threat-homes_185
+    21300372: triple-threat-homes_186
+    21300374: triple-threat-homes_187
+    21300376: triple-threat-homes_188
+    21300378: triple-threat-homes_189
+    21300380: triple-threat-homes_190
+    21300382: triple-threat-homes_191
+    21300384: triple-threat-homes_192
+    21300386: triple-threat-homes_193
+    21300388: triple-threat-homes_194
+    21300390: triple-threat-homes_195
+    21300392: triple-threat-homes_196
+    21300394: triple-threat-homes_197
+    21300396: triple-threat-homes_198
+    21300398: triple-threat-homes_199
+    21300400: triple-threat-homes_200
+    21300402: triple-threat-homes_201
+    21300404: triple-threat-homes_202
+    21300406: triple-threat-homes_203
+    21300408: triple-threat-homes_204
+    21300410: triple-threat-homes_205
+    21300412: triple-threat-homes_206
+    21300414: triple-threat-homes_207
+    21300416: triple-threat-homes_208
+    21300418: triple-threat-homes_209
+    21300420: triple-threat-homes_210
+    21300422: triple-threat-homes_211
+    21300424: triple-threat-homes_212
+    21300426: triple-threat-homes_213
+    21300428: triple-threat-homes_214
+    21300430: triple-threat-homes_215
+    21300432: triple-threat-homes_216
+    21300434: triple-threat-homes_217
+    21300436: triple-threat-homes_218
+    21300438: triple-threat-homes_219
+    21300440: triple-threat-homes_220
+    21300442: triple-threat-homes_221
+    21300444: triple-threat-homes_222
+    21300446: triple-threat-homes_223
+    21300448: triple-threat-homes_224
+    21300450: triple-threat-homes_225
+    21300452: triple-threat-homes_226
+    21300454: triple-threat-homes_227
+    21300456: triple-threat-homes_228
+    21300458: triple-threat-homes_229
+    21300460: triple-threat-homes_230
+    21300462: triple-threat-homes_231
+    21300464: triple-threat-homes_232
+    21300466: triple-threat-homes_233
+    21300468: triple-threat-homes_234
+    21300470: triple-threat-homes_235
+    21300472: triple-threat-homes_236
+    21300474: triple-threat-homes_237
+    21300476: triple-threat-homes_238
+    21300478: triple-threat-homes_239
+    21300480: triple-threat-homes_240
+    21300482: triple-threat-homes_241
+    21300484: triple-threat-homes_242
+    21300486: triple-threat-homes_243
+    21300488: triple-threat-homes_244
+    21300490: triple-threat-homes_245
+    21300492: triple-threat-homes_246
+    21300494: triple-threat-homes_247
+    21300496: triple-threat-homes_248
+    21300498: triple-threat-homes_249
+    21300500: triple-threat-homes_250
+    21300502: triple-threat-homes_251
+    21300504: triple-threat-homes_252
+    21300506: triple-threat-homes_253
+    21300508: triple-threat-homes_254
+    21300510: triple-threat-homes_255
+    21300512: triple-threat-homes_256
+    21300514: triple-threat-homes_257
+    21300516: triple-threat-homes_258
+    21300518: triple-threat-homes_259
+    21300520: triple-threat-homes_260
+    21300522: triple-threat-homes_261
+    21300524: triple-threat-homes_262
+    21300526: triple-threat-homes_263
+    21300528: triple-threat-homes_264
+    21300530: triple-threat-homes_265
+    21300532: triple-threat-homes_266
+    21300534: triple-threat-homes_267
+    21300536: triple-threat-homes_268
+    21300538: triple-threat-homes_269
+    21300540: triple-threat-homes_270
+    21300542: triple-threat-homes_271
+    21300544: triple-threat-homes_272
+    21300546: triple-threat-homes_273
+    21300548: triple-threat-homes_274
+    21300550: triple-threat-homes_275
+    21300552: triple-threat-homes_276
+    21300554: triple-threat-homes_277
+    21300556: triple-threat-homes_278
+    21300558: triple-threat-homes_279
+    21300560: triple-threat-homes_280
+    21300562: triple-threat-homes_281
+    21300564: triple-threat-homes_282
+    21300566: triple-threat-homes_283
+    21300568: triple-threat-homes_284
+    21300570: triple-threat-homes_285
+    21300572: triple-threat-homes_286
+    21300574: triple-threat-homes_287
+    21300576: triple-threat-homes_288
+    21300578: triple-threat-homes_289
+    21300580: triple-threat-homes_290
+    21300582: triple-threat-homes_291
+    21300584: triple-threat-homes_292
+    21300586: triple-threat-homes_293
+    21300588: triple-threat-homes_294
+    21300590: triple-threat-homes_295
+    21300592: triple-threat-homes_296
+    21300594: triple-threat-homes_297
+    21300596: triple-threat-homes_298
+    21300598: triple-threat-homes_299
+    21300600: triple-threat-homes_300
+    21300602: triple-threat-homes_301
+    21300604: triple-threat-homes_302
+    21300606: triple-threat-homes_303
+    21300608: triple-threat-homes_304
+    21300610: triple-threat-homes_305
+    21300612: triple-threat-homes_306
+    21300614: triple-threat-homes_307
+    21300616: triple-threat-homes_308
+    21300618: triple-threat-homes_309
+    21300620: triple-threat-homes_310
+    21300622: triple-threat-homes_311
+    21300624: triple-threat-homes_312
+    21300626: triple-threat-homes_313
+    21300628: triple-threat-homes_314
+    21300630: triple-threat-homes_315
+    21300632: triple-threat-homes_316
+    21300634: triple-threat-homes_317
+    21300636: triple-threat-homes_318
+    21300638: triple-threat-homes_319
+    21300640: triple-threat-homes_320
+    21300642: triple-threat-homes_321
+    21300644: triple-threat-homes_322
+    21300646: triple-threat-homes_323
+    21300648: triple-threat-homes_324
+    21300650: triple-threat-homes_325
+    21300652: triple-threat-homes_326
+    21300654: triple-threat-homes_327
+    21300656: triple-threat-homes_328
+    21300658: triple-threat-homes_329
+    21300660: triple-threat-homes_330
+    21300662: triple-threat-homes_331
+    21300664: triple-threat-homes_332
+    21300666: triple-threat-homes_333
+    21300668: triple-threat-homes_334
+    21300670: triple-threat-homes_335
+    21300672: triple-threat-homes_336
+    21300674: triple-threat-homes_337
+    21300676: triple-threat-homes_338
+    21300678: triple-threat-homes_339
+    21300680: triple-threat-homes_340
+    21300682: triple-threat-homes_341
+    21300684: triple-threat-homes_342
+    21300686: triple-threat-homes_343
+    21300688: triple-threat-homes_344
+    21300690: triple-threat-homes_345
+    21300692: triple-threat-homes_346
+    21300694: triple-threat-homes_347
+    21300696: triple-threat-homes_348
+    21300698: triple-threat-homes_349
+    21300700: triple-threat-homes_350
+    21300702: triple-threat-homes_351
+    21300704: triple-threat-homes_352
+    21300706: triple-threat-homes_353
+    21300708: triple-threat-homes_354
+    21300710: triple-threat-homes_355
+    21300712: triple-threat-homes_356
+    21300714: triple-threat-homes_357
+    21300716: triple-threat-homes_358
+    21300718: triple-threat-homes_359
+    21300720: triple-threat-homes_360
+    21300722: triple-threat-homes_361
+    21300724: triple-threat-homes_362
+    21300726: triple-threat-homes_363
+    21300728: triple-threat-homes_364
+    21300730: triple-threat-homes_365
+    21300732: triple-threat-homes_366
+    21300734: triple-threat-homes_367
+    21300736: triple-threat-homes_368
+    21300738: triple-threat-homes_369
+    21300740: triple-threat-homes_370
+    21300742: triple-threat-homes_371
+    21300744: triple-threat-homes_372
+    21300746: triple-threat-homes_373
+    21300748: triple-threat-homes_374
+    21300750: triple-threat-homes_375
+    21300752: triple-threat-homes_376
+    21300754: triple-threat-homes_377
+    21300756: triple-threat-homes_378
+    21300758: triple-threat-homes_379
+    21300760: triple-threat-homes_380
+    21300762: triple-threat-homes_381
+    21300764: triple-threat-homes_382
+    21300766: triple-threat-homes_383
+    21300768: triple-threat-homes_384
+    21300770: triple-threat-homes_385
+    21300772: triple-threat-homes_386
+    21300774: triple-threat-homes_387
+    21300776: triple-threat-homes_388
+    21300778: triple-threat-homes_389
+    21300780: triple-threat-homes_390
+    21300782: triple-threat-homes_391
+    21300784: triple-threat-homes_392
+    21300786: triple-threat-homes_393
+    21300788: triple-threat-homes_394
+    21300790: triple-threat-homes_395
+    21300792: triple-threat-homes_396
+    21300794: triple-threat-homes_397
+    21300796: triple-threat-homes_398
+    21300798: triple-threat-homes_399
+    21300800: triple-threat-homes_400
+    21300802: triple-threat-homes_401
+    21300804: triple-threat-homes_402
+    21300806: triple-threat-homes_403
+    21300808: triple-threat-homes_404
+    21300810: triple-threat-homes_405
+    21300812: triple-threat-homes_406
+    21300814: triple-threat-homes_407
+    21300816: triple-threat-homes_408
+    21300818: triple-threat-homes_409
+    21300820: triple-threat-homes_410
+    21300822: triple-threat-homes_411
+    21300824: triple-threat-homes_412
+    21300826: triple-threat-homes_413
+    21300828: triple-threat-homes_414
+    21300830: triple-threat-homes_415
+    21300832: triple-threat-homes_416
+    21300834: triple-threat-homes_417
+    21300836: triple-threat-homes_418
+    21300838: triple-threat-homes_419
+    21300840: triple-threat-homes_420
+    21300842: triple-threat-homes_421
+    21300844: triple-threat-homes_422
+    21300846: triple-threat-homes_423
+    21300848: triple-threat-homes_424
+    21300850: triple-threat-homes_425
+    21300852: triple-threat-homes_426
+    21300854: triple-threat-homes_427
+    21300856: triple-threat-homes_428
+    21300858: triple-threat-homes_429
+    21300860: triple-threat-homes_430
+    21300862: triple-threat-homes_431
+    21300864: triple-threat-homes_432
+    21300866: triple-threat-homes_433
+    21300868: triple-threat-homes_434
+    21300870: triple-threat-homes_435
+    21300872: triple-threat-homes_436
+    21300874: triple-threat-homes_437
+    21300876: triple-threat-homes_438
+    21300878: triple-threat-homes_439
+    21300880: triple-threat-homes_440
+    21300882: triple-threat-homes_441
+    21300884: triple-threat-homes_442
+    21300886: triple-threat-homes_443
+    21300888: triple-threat-homes_444
+    21300890: triple-threat-homes_445
+    21300892: triple-threat-homes_446
+    21300894: triple-threat-homes_447
+    21300896: triple-threat-homes_448
+    21300898: triple-threat-homes_449
+    21300900: triple-threat-homes_450
+    21300902: triple-threat-homes_451
+    21300904: triple-threat-homes_452
+    21300906: triple-threat-homes_453
+    21300908: triple-threat-homes_454
+    21300910: triple-threat-homes_455
+    21300912: triple-threat-homes_456
+    21300914: triple-threat-homes_457
+    21300916: triple-threat-homes_458
+    21300918: triple-threat-homes_459
+    21300920: triple-threat-homes_460
+    21300922: triple-threat-homes_461
+    21300924: triple-threat-homes_462
+    21300926: triple-threat-homes_463
+    21300928: triple-threat-homes_464
+    21300930: triple-threat-homes_465
+    21300932: triple-threat-homes_466
+    21300934: triple-threat-homes_467
+    21300936: triple-threat-homes_468
+    21300938: triple-threat-homes_469
+    21300940: triple-threat-homes_470
+    21300942: triple-threat-homes_471
+    21300944: triple-threat-homes_472
+    21300946: triple-threat-homes_473
+    21300948: triple-threat-homes_474
+    21300950: triple-threat-homes_475
+    21300952: triple-threat-homes_476
+    21300954: triple-threat-homes_477
+    21300956: triple-threat-homes_478
+    21300958: triple-threat-homes_479
+    21300960: triple-threat-homes_480
+    21300962: triple-threat-homes_481
+    21300964: triple-threat-homes_482
+    21300966: triple-threat-homes_483
+    21300968: triple-threat-homes_484
+    21300970: triple-threat-homes_485
+    21300972: triple-threat-homes_486
+    21300974: triple-threat-homes_487
+    21300976: triple-threat-homes_488
+    21300978: triple-threat-homes_489
+    21300980: triple-threat-homes_490
+    21300982: triple-threat-homes_491
+    21300984: triple-threat-homes_492
+    21300986: triple-threat-homes_493
+    21300988: triple-threat-homes_494
+    21300990: triple-threat-homes_495
+    21300992: triple-threat-homes_496
+    21300994: triple-threat-homes_497
+    21300996: triple-threat-homes_498
+    21300998: triple-threat-homes_499
+    21301000: triple-threat-homes_500
+    21301002: triple-threat-homes_501
+    21301004: triple-threat-homes_502
+    21301006: triple-threat-homes_503
+    21301008: triple-threat-homes_504
+    21301010: triple-threat-homes_505
+    21301012: triple-threat-homes_506
+    21301014: triple-threat-homes_507
+    21301016: triple-threat-homes_508
+    21301018: triple-threat-homes_509
+    21301020: triple-threat-homes_510
+    21301022: triple-threat-homes_511
+    21301024: triple-threat-homes_512
+    21301026: triple-threat-homes_513
+    21301028: triple-threat-homes_514
+    21301030: triple-threat-homes_515
+    21301032: triple-threat-homes_516
+    21301034: triple-threat-homes_517
+    21301036: triple-threat-homes_518
+    21301038: triple-threat-homes_519
+    21301040: triple-threat-homes_520
+    21301042: triple-threat-homes_521
+    21301044: triple-threat-homes_522
+    21301046: triple-threat-homes_523
+    21301048: triple-threat-homes_524
+    21301050: triple-threat-homes_525
+    21301052: triple-threat-homes_526
+    21301054: triple-threat-homes_527
+    21301056: triple-threat-homes_528
+    21301058: triple-threat-homes_529
+    21301060: triple-threat-homes_530
+    21301062: triple-threat-homes_531
+    21301064: triple-threat-homes_532
+    21301066: triple-threat-homes_533
+    21301068: triple-threat-homes_534
+    21301070: triple-threat-homes_535
+    21301072: triple-threat-homes_536
+    21301074: triple-threat-homes_537
+    21301076: triple-threat-homes_538
+    21301078: triple-threat-homes_539
+    21301080: triple-threat-homes_540
+    21301082: triple-threat-homes_541
+    21301084: triple-threat-homes_542
+    21301086: triple-threat-homes_543
+    21301088: triple-threat-homes_544
+    21301090: triple-threat-homes_545
+    21301092: triple-threat-homes_546
+    21301094: triple-threat-homes_547
+    21301096: triple-threat-homes_548
+    21301098: triple-threat-homes_549
+    21301100: triple-threat-homes_550
+    21301102: triple-threat-homes_551
+    21301104: triple-threat-homes_552
+    21301106: triple-threat-homes_553
+    21301108: triple-threat-homes_554
+    21301110: triple-threat-homes_555
+    21301112: triple-threat-homes_556
+    21301114: triple-threat-homes_557
+    21301116: triple-threat-homes_558
+    21301118: triple-threat-homes_559
+    21301120: triple-threat-homes_560
+    21301122: triple-threat-homes_561
+    21301124: triple-threat-homes_562
+    21301126: triple-threat-homes_563
+    21301128: triple-threat-homes_564
+    21301130: triple-threat-homes_565
+    21301132: triple-threat-homes_566
+    21301134: triple-threat-homes_567
+    21301136: triple-threat-homes_568
+    21301138: triple-threat-homes_569
+    21301140: triple-threat-homes_570
+    21301142: triple-threat-homes_571
+    21301144: triple-threat-homes_572
+    21301146: triple-threat-homes_573
+    21301148: triple-threat-homes_574
+    21301150: triple-threat-homes_575
+    21301152: triple-threat-homes_576
+    21301154: triple-threat-homes_577
+    21301156: triple-threat-homes_578
+    21301158: triple-threat-homes_579
+    21301160: triple-threat-homes_580
+    21301162: triple-threat-homes_581
+    21301164: triple-threat-homes_582
+    21301166: triple-threat-homes_583
+    21301168: triple-threat-homes_584
+    21301170: triple-threat-homes_585
+    21301172: triple-threat-homes_586
+    21301174: triple-threat-homes_587
+    21301176: triple-threat-homes_588
+    21301178: triple-threat-homes_589
+    21301180: triple-threat-homes_590
+    21301182: triple-threat-homes_591
+    21301184: triple-threat-homes_592
+    21301186: triple-threat-homes_593
+    21301188: triple-threat-homes_594
+    21301190: triple-threat-homes_595
+    21301192: triple-threat-homes_596
+    21301194: triple-threat-homes_597
+    21301196: triple-threat-homes_598
+    21301198: triple-threat-homes_599
+    21301200: triple-threat-homes_600
+    21301202: triple-threat-homes_601
+    21301204: triple-threat-homes_602
+    21301206: triple-threat-homes_603
+    21301208: triple-threat-homes_604
+    21301210: triple-threat-homes_605
+    21301212: triple-threat-homes_606
+    21301214: triple-threat-homes_607
+    21301216: triple-threat-homes_608
+    21301218: triple-threat-homes_609
+    21301220: triple-threat-homes_610
+    21301222: triple-threat-homes_611
+    21301224: triple-threat-homes_612
+    21301226: triple-threat-homes_613
+    21301228: triple-threat-homes_614
+    21301230: triple-threat-homes_615
+    21301232: triple-threat-homes_616
+    21301234: triple-threat-homes_617
+    21301236: triple-threat-homes_618
+    21301238: triple-threat-homes_619
+    21301240: triple-threat-homes_620
+    21301242: triple-threat-homes_621
+    21301244: triple-threat-homes_622
+    21301246: triple-threat-homes_623
+    21301248: triple-threat-homes_624
+    21301250: triple-threat-homes_625
+    21301252: triple-threat-homes_626
+    21301254: triple-threat-homes_627
+    21301256: triple-threat-homes_628
+    21301258: triple-threat-homes_629
+    21301260: triple-threat-homes_630
+    21301262: triple-threat-homes_631
+    21301264: triple-threat-homes_632
+    21301266: triple-threat-homes_633
+    21301268: triple-threat-homes_634
+    21301270: triple-threat-homes_635
+    21301272: triple-threat-homes_636
+    21301274: triple-threat-homes_637
+    21301276: triple-threat-homes_638
+    21301278: triple-threat-homes_639
+    21301280: triple-threat-homes_640
+    21301282: triple-threat-homes_641
+    21301284: triple-threat-homes_642
+    21301286: triple-threat-homes_643
+    21301288: triple-threat-homes_644
+    21301290: triple-threat-homes_645
+    21301292: triple-threat-homes_646
+    21301294: triple-threat-homes_647
+    21301296: triple-threat-homes_648
+    21301298: triple-threat-homes_649
+    21301300: triple-threat-homes_650
+    21301302: triple-threat-homes_651
+    21301304: triple-threat-homes_652
+    21301306: triple-threat-homes_653
+    21301308: triple-threat-homes_654
+    21301310: triple-threat-homes_655
+    21301312: triple-threat-homes_656
+    21301314: triple-threat-homes_657
+    21301316: triple-threat-homes_658
+    21301318: triple-threat-homes_659
+    21301320: triple-threat-homes_660
+    21301322: triple-threat-homes_661
+    21301324: triple-threat-homes_662
+    21301326: triple-threat-homes_663
+    21301328: triple-threat-homes_664
+    21301330: triple-threat-homes_665
+    21301332: triple-threat-homes_666
+    21301334: triple-threat-homes_667
+    21301336: triple-threat-homes_668
+    21301338: triple-threat-homes_669
+    21301340: triple-threat-homes_670
+    21301342: triple-threat-homes_671
+    21301344: triple-threat-homes_672
+    21301346: triple-threat-homes_673
+    21301348: triple-threat-homes_674
+    21301350: triple-threat-homes_675
+    21301352: triple-threat-homes_676
+    21301354: triple-threat-homes_677
+    21301356: triple-threat-homes_678
+    21301358: triple-threat-homes_679
+    21301360: triple-threat-homes_680
+    21301362: triple-threat-homes_681
+    21301364: triple-threat-homes_682
+    21301366: triple-threat-homes_683
+    21301368: triple-threat-homes_684
+    21301370: triple-threat-homes_685
+    21301372: triple-threat-homes_686
+    21301374: triple-threat-homes_687
+    21301376: triple-threat-homes_688
+    21301378: triple-threat-homes_689
+    21301380: triple-threat-homes_690
+    21301382: triple-threat-homes_691
+    21301384: triple-threat-homes_692
+    21301386: triple-threat-homes_693
+    21301388: triple-threat-homes_694
+    21301390: triple-threat-homes_695
+    21301392: triple-threat-homes_696
+    21301394: triple-threat-homes_697
+    21301396: triple-threat-homes_698
+    21301398: triple-threat-homes_699
+    21301400: triple-threat-homes_700
+    21301402: triple-threat-homes_701
+    21301404: triple-threat-homes_702
+    21301406: triple-threat-homes_703
+    21301408: triple-threat-homes_704
+    21301410: triple-threat-homes_705
+    21301412: triple-threat-homes_706
+    21301414: triple-threat-homes_707
+    21301416: triple-threat-homes_708
+    21301418: triple-threat-homes_709
+    21301420: triple-threat-homes_710
+    21301422: triple-threat-homes_711
+    21301424: triple-threat-homes_712
+    21301426: triple-threat-homes_713
+    21301428: triple-threat-homes_714
+    21301430: triple-threat-homes_715
+    21301432: triple-threat-homes_716
+    21301434: triple-threat-homes_717
+    21301436: triple-threat-homes_718
+    21301438: triple-threat-homes_719
+    21301440: triple-threat-homes_720
+    21301442: triple-threat-homes_721
+    21301444: triple-threat-homes_722
+    21301446: triple-threat-homes_723
+    21301448: triple-threat-homes_724
+    21301450: triple-threat-homes_725
+    21301452: triple-threat-homes_726
+    21301454: triple-threat-homes_727
+    21301456: triple-threat-homes_728
+    21301458: triple-threat-homes_729
+    21301460: triple-threat-homes_730
+    21301462: triple-threat-homes_731
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: triple-threat-homes_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 808
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 776
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 712
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 616
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 584
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_80
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_84
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_85
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_97
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 520
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_110
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 488
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_122
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 456
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 392
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_149
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_150
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_151
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_155
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_157
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_158
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 328
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_166
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_167
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_168
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_169
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_170
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_171
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_172
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_175
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_176
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_177
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_178
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_184
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_185
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_187
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_188
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_189
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_192
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_193
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_198
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_199
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_200
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 200
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_201
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_202
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_203
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_204
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_205
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_206
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_207
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_208
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_209
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_210
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_211
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_212
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_213
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 168
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_215
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_216
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_217
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_218
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_219
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_220
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_221
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_222
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_223
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_224
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_225
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_226
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_227
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_228
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_229
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_230
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_231
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_232
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: triple-threat-homes_233
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
